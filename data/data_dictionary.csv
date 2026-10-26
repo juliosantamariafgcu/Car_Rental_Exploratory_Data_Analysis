@@ -1,0 +1,25 @@
+column,description
+rental_id,Unique reservation ID
+location_id,Airport code
+city,Market
+booking_date,Date booked
+pickup_date,Scheduled pickup date
+rental_days,Rental duration; planned if not completed
+vehicle_category,Vehicle class
+customer_segment,Customer type
+booking_channel,Reservation channel
+lead_time_days,Days between booking and pickup
+listed_daily_rate,Daily rate before discount
+discount_pct,Discount fraction
+net_daily_rate,Daily rate after discount
+reservation_status,"Completed, Cancelled or No-show"
+rental_revenue,Net rate times duration for completed rentals
+extras_revenue,Ancillary revenue
+total_revenue,Rental plus ancillary revenue
+estimated_variable_cost,"Illustrative variable cost, not full cost"
+date,Calendar date
+location_id,Airport code
+city,Market
+available_vehicles,Daily fleet supply
+occupied_vehicle_days,Completed rentals overlapping the date
+occupancy_exceeds_reported_fleet,Simulation data-quality flag

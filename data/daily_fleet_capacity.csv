@@ -1,0 +1,1826 @@
+date,location_id,city,available_vehicles,occupied_vehicle_days,occupancy_exceeds_reported_fleet
+2025-01-01,RSW,Fort Myers,116,23,False
+2025-01-01,MIA,Miami,219,34,False
+2025-01-01,MCO,Orlando,256,44,False
+2025-01-01,TPA,Tampa,166,34,False
+2025-01-01,FLL,Fort Lauderdale,187,31,False
+2025-01-02,RSW,Fort Myers,116,34,False
+2025-01-02,MIA,Miami,219,59,False
+2025-01-02,MCO,Orlando,255,75,False
+2025-01-02,TPA,Tampa,160,62,False
+2025-01-02,FLL,Fort Lauderdale,178,47,False
+2025-01-03,RSW,Fort Myers,118,39,False
+2025-01-03,MIA,Miami,223,81,False
+2025-01-03,MCO,Orlando,261,96,False
+2025-01-03,TPA,Tampa,157,75,False
+2025-01-03,FLL,Fort Lauderdale,185,72,False
+2025-01-04,RSW,Fort Myers,121,58,False
+2025-01-04,MIA,Miami,219,113,False
+2025-01-04,MCO,Orlando,259,119,False
+2025-01-04,TPA,Tampa,162,95,False
+2025-01-04,FLL,Fort Lauderdale,190,96,False
+2025-01-05,RSW,Fort Myers,128,62,False
+2025-01-05,MIA,Miami,221,119,False
+2025-01-05,MCO,Orlando,258,129,False
+2025-01-05,TPA,Tampa,179,108,False
+2025-01-05,FLL,Fort Lauderdale,190,93,False
+2025-01-06,RSW,Fort Myers,111,62,False
+2025-01-06,MIA,Miami,227,139,False
+2025-01-06,MCO,Orlando,260,149,False
+2025-01-06,TPA,Tampa,172,115,False
+2025-01-06,FLL,Fort Lauderdale,190,120,False
+2025-01-07,RSW,Fort Myers,129,72,False
+2025-01-07,MIA,Miami,222,155,False
+2025-01-07,MCO,Orlando,265,171,False
+2025-01-07,TPA,Tampa,168,121,False
+2025-01-07,FLL,Fort Lauderdale,193,125,False
+2025-01-08,RSW,Fort Myers,124,87,False
+2025-01-08,MIA,Miami,216,160,False
+2025-01-08,MCO,Orlando,249,169,False
+2025-01-08,TPA,Tampa,173,110,False
+2025-01-08,FLL,Fort Lauderdale,199,125,False
+2025-01-09,RSW,Fort Myers,113,88,False
+2025-01-09,MIA,Miami,218,165,False
+2025-01-09,MCO,Orlando,260,163,False
+2025-01-09,TPA,Tampa,175,126,False
+2025-01-09,FLL,Fort Lauderdale,186,123,False
+2025-01-10,RSW,Fort Myers,118,85,False
+2025-01-10,MIA,Miami,229,183,False
+2025-01-10,MCO,Orlando,262,169,False
+2025-01-10,TPA,Tampa,159,124,False
+2025-01-10,FLL,Fort Lauderdale,187,124,False
+2025-01-11,RSW,Fort Myers,114,90,False
+2025-01-11,MIA,Miami,219,174,False
+2025-01-11,MCO,Orlando,255,185,False
+2025-01-11,TPA,Tampa,169,125,False
+2025-01-11,FLL,Fort Lauderdale,199,130,False
+2025-01-12,RSW,Fort Myers,126,98,False
+2025-01-12,MIA,Miami,212,179,False
+2025-01-12,MCO,Orlando,257,178,False
+2025-01-12,TPA,Tampa,172,129,False
+2025-01-12,FLL,Fort Lauderdale,194,137,False
+2025-01-13,RSW,Fort Myers,127,93,False
+2025-01-13,MIA,Miami,221,177,False
+2025-01-13,MCO,Orlando,253,175,False
+2025-01-13,TPA,Tampa,176,151,False
+2025-01-13,FLL,Fort Lauderdale,194,121,False
+2025-01-14,RSW,Fort Myers,124,85,False
+2025-01-14,MIA,Miami,217,165,False
+2025-01-14,MCO,Orlando,256,181,False
+2025-01-14,TPA,Tampa,165,138,False
+2025-01-14,FLL,Fort Lauderdale,192,103,False
+2025-01-15,RSW,Fort Myers,120,83,False
+2025-01-15,MIA,Miami,228,165,False
+2025-01-15,MCO,Orlando,267,178,False
+2025-01-15,TPA,Tampa,167,132,False
+2025-01-15,FLL,Fort Lauderdale,192,124,False
+2025-01-16,RSW,Fort Myers,115,78,False
+2025-01-16,MIA,Miami,231,170,False
+2025-01-16,MCO,Orlando,253,174,False
+2025-01-16,TPA,Tampa,166,141,False
+2025-01-16,FLL,Fort Lauderdale,197,129,False
+2025-01-17,RSW,Fort Myers,128,88,False
+2025-01-17,MIA,Miami,222,173,False
+2025-01-17,MCO,Orlando,255,163,False
+2025-01-17,TPA,Tampa,166,141,False
+2025-01-17,FLL,Fort Lauderdale,189,124,False
+2025-01-18,RSW,Fort Myers,123,91,False
+2025-01-18,MIA,Miami,220,170,False
+2025-01-18,MCO,Orlando,266,164,False
+2025-01-18,TPA,Tampa,176,134,False
+2025-01-18,FLL,Fort Lauderdale,182,126,False
+2025-01-19,RSW,Fort Myers,123,90,False
+2025-01-19,MIA,Miami,223,164,False
+2025-01-19,MCO,Orlando,258,161,False
+2025-01-19,TPA,Tampa,178,132,False
+2025-01-19,FLL,Fort Lauderdale,181,132,False
+2025-01-20,RSW,Fort Myers,123,79,False
+2025-01-20,MIA,Miami,225,162,False
+2025-01-20,MCO,Orlando,273,166,False
+2025-01-20,TPA,Tampa,177,129,False
+2025-01-20,FLL,Fort Lauderdale,191,137,False
+2025-01-21,RSW,Fort Myers,116,77,False
+2025-01-21,MIA,Miami,222,170,False
+2025-01-21,MCO,Orlando,262,178,False
+2025-01-21,TPA,Tampa,177,129,False
+2025-01-21,FLL,Fort Lauderdale,184,118,False
+2025-01-22,RSW,Fort Myers,116,78,False
+2025-01-22,MIA,Miami,228,175,False
+2025-01-22,MCO,Orlando,244,196,False
+2025-01-22,TPA,Tampa,167,136,False
+2025-01-22,FLL,Fort Lauderdale,192,113,False
+2025-01-23,RSW,Fort Myers,125,82,False
+2025-01-23,MIA,Miami,217,182,False
+2025-01-23,MCO,Orlando,261,198,False
+2025-01-23,TPA,Tampa,170,138,False
+2025-01-23,FLL,Fort Lauderdale,191,136,False
+2025-01-24,RSW,Fort Myers,113,77,False
+2025-01-24,MIA,Miami,217,159,False
+2025-01-24,MCO,Orlando,254,182,False
+2025-01-24,TPA,Tampa,166,143,False
+2025-01-24,FLL,Fort Lauderdale,188,141,False
+2025-01-25,RSW,Fort Myers,124,74,False
+2025-01-25,MIA,Miami,217,149,False
+2025-01-25,MCO,Orlando,256,181,False
+2025-01-25,TPA,Tampa,174,146,False
+2025-01-25,FLL,Fort Lauderdale,185,154,False
+2025-01-26,RSW,Fort Myers,123,83,False
+2025-01-26,MIA,Miami,226,166,False
+2025-01-26,MCO,Orlando,259,180,False
+2025-01-26,TPA,Tampa,164,144,False
+2025-01-26,FLL,Fort Lauderdale,187,155,False
+2025-01-27,RSW,Fort Myers,118,82,False
+2025-01-27,MIA,Miami,218,171,False
+2025-01-27,MCO,Orlando,251,179,False
+2025-01-27,TPA,Tampa,158,125,False
+2025-01-27,FLL,Fort Lauderdale,193,154,False
+2025-01-28,RSW,Fort Myers,118,76,False
+2025-01-28,MIA,Miami,230,166,False
+2025-01-28,MCO,Orlando,253,174,False
+2025-01-28,TPA,Tampa,162,121,False
+2025-01-28,FLL,Fort Lauderdale,183,143,False
+2025-01-29,RSW,Fort Myers,120,81,False
+2025-01-29,MIA,Miami,214,160,False
+2025-01-29,MCO,Orlando,264,175,False
+2025-01-29,TPA,Tampa,159,121,False
+2025-01-29,FLL,Fort Lauderdale,191,149,False
+2025-01-30,RSW,Fort Myers,120,75,False
+2025-01-30,MIA,Miami,218,158,False
+2025-01-30,MCO,Orlando,262,172,False
+2025-01-30,TPA,Tampa,170,125,False
+2025-01-30,FLL,Fort Lauderdale,190,138,False
+2025-01-31,RSW,Fort Myers,127,80,False
+2025-01-31,MIA,Miami,212,171,False
+2025-01-31,MCO,Orlando,261,192,False
+2025-01-31,TPA,Tampa,165,126,False
+2025-01-31,FLL,Fort Lauderdale,192,146,False
+2025-02-01,RSW,Fort Myers,115,71,False
+2025-02-01,MIA,Miami,223,174,False
+2025-02-01,MCO,Orlando,265,196,False
+2025-02-01,TPA,Tampa,160,117,False
+2025-02-01,FLL,Fort Lauderdale,202,148,False
+2025-02-02,RSW,Fort Myers,120,77,False
+2025-02-02,MIA,Miami,216,179,False
+2025-02-02,MCO,Orlando,266,199,False
+2025-02-02,TPA,Tampa,165,125,False
+2025-02-02,FLL,Fort Lauderdale,194,151,False
+2025-02-03,RSW,Fort Myers,115,91,False
+2025-02-03,MIA,Miami,223,179,False
+2025-02-03,MCO,Orlando,260,201,False
+2025-02-03,TPA,Tampa,166,126,False
+2025-02-03,FLL,Fort Lauderdale,190,147,False
+2025-02-04,RSW,Fort Myers,116,94,False
+2025-02-04,MIA,Miami,220,180,False
+2025-02-04,MCO,Orlando,255,196,False
+2025-02-04,TPA,Tampa,162,122,False
+2025-02-04,FLL,Fort Lauderdale,188,150,False
+2025-02-05,RSW,Fort Myers,126,100,False
+2025-02-05,MIA,Miami,225,174,False
+2025-02-05,MCO,Orlando,269,205,False
+2025-02-05,TPA,Tampa,173,139,False
+2025-02-05,FLL,Fort Lauderdale,195,151,False
+2025-02-06,RSW,Fort Myers,112,93,False
+2025-02-06,MIA,Miami,223,153,False
+2025-02-06,MCO,Orlando,265,221,False
+2025-02-06,TPA,Tampa,175,148,False
+2025-02-06,FLL,Fort Lauderdale,183,155,False
+2025-02-07,RSW,Fort Myers,112,90,False
+2025-02-07,MIA,Miami,222,166,False
+2025-02-07,MCO,Orlando,260,218,False
+2025-02-07,TPA,Tampa,179,147,False
+2025-02-07,FLL,Fort Lauderdale,187,161,False
+2025-02-08,RSW,Fort Myers,131,98,False
+2025-02-08,MIA,Miami,215,158,False
+2025-02-08,MCO,Orlando,264,214,False
+2025-02-08,TPA,Tampa,165,139,False
+2025-02-08,FLL,Fort Lauderdale,190,147,False
+2025-02-09,RSW,Fort Myers,120,100,False
+2025-02-09,MIA,Miami,220,163,False
+2025-02-09,MCO,Orlando,265,199,False
+2025-02-09,TPA,Tampa,174,139,False
+2025-02-09,FLL,Fort Lauderdale,179,137,False
+2025-02-10,RSW,Fort Myers,113,101,False
+2025-02-10,MIA,Miami,224,162,False
+2025-02-10,MCO,Orlando,259,206,False
+2025-02-10,TPA,Tampa,164,128,False
+2025-02-10,FLL,Fort Lauderdale,194,138,False
+2025-02-11,RSW,Fort Myers,129,97,False
+2025-02-11,MIA,Miami,222,154,False
+2025-02-11,MCO,Orlando,255,199,False
+2025-02-11,TPA,Tampa,163,136,False
+2025-02-11,FLL,Fort Lauderdale,183,137,False
+2025-02-12,RSW,Fort Myers,125,90,False
+2025-02-12,MIA,Miami,222,149,False
+2025-02-12,MCO,Orlando,263,201,False
+2025-02-12,TPA,Tampa,167,119,False
+2025-02-12,FLL,Fort Lauderdale,196,130,False
+2025-02-13,RSW,Fort Myers,115,87,False
+2025-02-13,MIA,Miami,210,155,False
+2025-02-13,MCO,Orlando,269,204,False
+2025-02-13,TPA,Tampa,169,116,False
+2025-02-13,FLL,Fort Lauderdale,188,132,False
+2025-02-14,RSW,Fort Myers,113,92,False
+2025-02-14,MIA,Miami,214,164,False
+2025-02-14,MCO,Orlando,265,189,False
+2025-02-14,TPA,Tampa,179,106,False
+2025-02-14,FLL,Fort Lauderdale,195,141,False
+2025-02-15,RSW,Fort Myers,113,89,False
+2025-02-15,MIA,Miami,225,165,False
+2025-02-15,MCO,Orlando,258,196,False
+2025-02-15,TPA,Tampa,172,111,False
+2025-02-15,FLL,Fort Lauderdale,191,140,False
+2025-02-16,RSW,Fort Myers,124,88,False
+2025-02-16,MIA,Miami,232,177,False
+2025-02-16,MCO,Orlando,267,221,False
+2025-02-16,TPA,Tampa,171,108,False
+2025-02-16,FLL,Fort Lauderdale,184,136,False
+2025-02-17,RSW,Fort Myers,108,89,False
+2025-02-17,MIA,Miami,219,179,False
+2025-02-17,MCO,Orlando,263,228,False
+2025-02-17,TPA,Tampa,170,98,False
+2025-02-17,FLL,Fort Lauderdale,192,137,False
+2025-02-18,RSW,Fort Myers,121,88,False
+2025-02-18,MIA,Miami,227,158,False
+2025-02-18,MCO,Orlando,264,200,False
+2025-02-18,TPA,Tampa,172,114,False
+2025-02-18,FLL,Fort Lauderdale,193,156,False
+2025-02-19,RSW,Fort Myers,127,92,False
+2025-02-19,MIA,Miami,220,168,False
+2025-02-19,MCO,Orlando,259,198,False
+2025-02-19,TPA,Tampa,179,113,False
+2025-02-19,FLL,Fort Lauderdale,190,162,False
+2025-02-20,RSW,Fort Myers,123,97,False
+2025-02-20,MIA,Miami,217,180,False
+2025-02-20,MCO,Orlando,257,200,False
+2025-02-20,TPA,Tampa,165,118,False
+2025-02-20,FLL,Fort Lauderdale,186,162,False
+2025-02-21,RSW,Fort Myers,113,98,False
+2025-02-21,MIA,Miami,229,184,False
+2025-02-21,MCO,Orlando,265,200,False
+2025-02-21,TPA,Tampa,166,131,False
+2025-02-21,FLL,Fort Lauderdale,193,170,False
+2025-02-22,RSW,Fort Myers,118,97,False
+2025-02-22,MIA,Miami,212,169,False
+2025-02-22,MCO,Orlando,255,188,False
+2025-02-22,TPA,Tampa,171,143,False
+2025-02-22,FLL,Fort Lauderdale,199,153,False
+2025-02-23,RSW,Fort Myers,109,91,False
+2025-02-23,MIA,Miami,220,165,False
+2025-02-23,MCO,Orlando,256,181,False
+2025-02-23,TPA,Tampa,164,142,False
+2025-02-23,FLL,Fort Lauderdale,182,157,False
+2025-02-24,RSW,Fort Myers,114,86,False
+2025-02-24,MIA,Miami,225,169,False
+2025-02-24,MCO,Orlando,264,194,False
+2025-02-24,TPA,Tampa,171,139,False
+2025-02-24,FLL,Fort Lauderdale,191,161,False
+2025-02-25,RSW,Fort Myers,121,88,False
+2025-02-25,MIA,Miami,210,172,False
+2025-02-25,MCO,Orlando,260,191,False
+2025-02-25,TPA,Tampa,169,123,False
+2025-02-25,FLL,Fort Lauderdale,188,161,False
+2025-02-26,RSW,Fort Myers,117,91,False
+2025-02-26,MIA,Miami,216,170,False
+2025-02-26,MCO,Orlando,259,202,False
+2025-02-26,TPA,Tampa,175,118,False
+2025-02-26,FLL,Fort Lauderdale,194,163,False
+2025-02-27,RSW,Fort Myers,110,90,False
+2025-02-27,MIA,Miami,217,176,False
+2025-02-27,MCO,Orlando,261,191,False
+2025-02-27,TPA,Tampa,169,126,False
+2025-02-27,FLL,Fort Lauderdale,194,174,False
+2025-02-28,RSW,Fort Myers,119,101,False
+2025-02-28,MIA,Miami,219,171,False
+2025-02-28,MCO,Orlando,265,201,False
+2025-02-28,TPA,Tampa,171,117,False
+2025-02-28,FLL,Fort Lauderdale,191,153,False
+2025-03-01,RSW,Fort Myers,133,84,False
+2025-03-01,MIA,Miami,218,175,False
+2025-03-01,MCO,Orlando,266,207,False
+2025-03-01,TPA,Tampa,167,124,False
+2025-03-01,FLL,Fort Lauderdale,186,156,False
+2025-03-02,RSW,Fort Myers,127,90,False
+2025-03-02,MIA,Miami,229,189,False
+2025-03-02,MCO,Orlando,260,193,False
+2025-03-02,TPA,Tampa,162,120,False
+2025-03-02,FLL,Fort Lauderdale,186,163,False
+2025-03-03,RSW,Fort Myers,124,81,False
+2025-03-03,MIA,Miami,231,193,False
+2025-03-03,MCO,Orlando,266,188,False
+2025-03-03,TPA,Tampa,168,109,False
+2025-03-03,FLL,Fort Lauderdale,189,145,False
+2025-03-04,RSW,Fort Myers,124,82,False
+2025-03-04,MIA,Miami,217,183,False
+2025-03-04,MCO,Orlando,263,182,False
+2025-03-04,TPA,Tampa,164,120,False
+2025-03-04,FLL,Fort Lauderdale,183,145,False
+2025-03-05,RSW,Fort Myers,116,81,False
+2025-03-05,MIA,Miami,217,181,False
+2025-03-05,MCO,Orlando,275,194,False
+2025-03-05,TPA,Tampa,174,135,False
+2025-03-05,FLL,Fort Lauderdale,194,140,False
+2025-03-06,RSW,Fort Myers,120,87,False
+2025-03-06,MIA,Miami,215,178,False
+2025-03-06,MCO,Orlando,257,179,False
+2025-03-06,TPA,Tampa,170,133,False
+2025-03-06,FLL,Fort Lauderdale,187,128,False
+2025-03-07,RSW,Fort Myers,122,86,False
+2025-03-07,MIA,Miami,216,179,False
+2025-03-07,MCO,Orlando,259,197,False
+2025-03-07,TPA,Tampa,169,122,False
+2025-03-07,FLL,Fort Lauderdale,193,130,False
+2025-03-08,RSW,Fort Myers,124,93,False
+2025-03-08,MIA,Miami,223,168,False
+2025-03-08,MCO,Orlando,258,214,False
+2025-03-08,TPA,Tampa,170,117,False
+2025-03-08,FLL,Fort Lauderdale,191,134,False
+2025-03-09,RSW,Fort Myers,114,93,False
+2025-03-09,MIA,Miami,226,186,False
+2025-03-09,MCO,Orlando,252,216,False
+2025-03-09,TPA,Tampa,172,112,False
+2025-03-09,FLL,Fort Lauderdale,185,125,False
+2025-03-10,RSW,Fort Myers,115,98,False
+2025-03-10,MIA,Miami,222,176,False
+2025-03-10,MCO,Orlando,259,197,False
+2025-03-10,TPA,Tampa,172,109,False
+2025-03-10,FLL,Fort Lauderdale,194,139,False
+2025-03-11,RSW,Fort Myers,112,93,False
+2025-03-11,MIA,Miami,222,165,False
+2025-03-11,MCO,Orlando,260,206,False
+2025-03-11,TPA,Tampa,171,116,False
+2025-03-11,FLL,Fort Lauderdale,182,145,False
+2025-03-12,RSW,Fort Myers,113,85,False
+2025-03-12,MIA,Miami,218,170,False
+2025-03-12,MCO,Orlando,256,205,False
+2025-03-12,TPA,Tampa,159,124,False
+2025-03-12,FLL,Fort Lauderdale,192,137,False
+2025-03-13,RSW,Fort Myers,118,92,False
+2025-03-13,MIA,Miami,222,175,False
+2025-03-13,MCO,Orlando,262,191,False
+2025-03-13,TPA,Tampa,162,115,False
+2025-03-13,FLL,Fort Lauderdale,185,144,False
+2025-03-14,RSW,Fort Myers,116,95,False
+2025-03-14,MIA,Miami,229,168,False
+2025-03-14,MCO,Orlando,260,186,False
+2025-03-14,TPA,Tampa,166,122,False
+2025-03-14,FLL,Fort Lauderdale,188,128,False
+2025-03-15,RSW,Fort Myers,118,94,False
+2025-03-15,MIA,Miami,230,181,False
+2025-03-15,MCO,Orlando,267,185,False
+2025-03-15,TPA,Tampa,166,127,False
+2025-03-15,FLL,Fort Lauderdale,188,145,False
+2025-03-16,RSW,Fort Myers,118,101,False
+2025-03-16,MIA,Miami,220,173,False
+2025-03-16,MCO,Orlando,267,186,False
+2025-03-16,TPA,Tampa,166,126,False
+2025-03-16,FLL,Fort Lauderdale,191,145,False
+2025-03-17,RSW,Fort Myers,122,91,False
+2025-03-17,MIA,Miami,219,168,False
+2025-03-17,MCO,Orlando,258,192,False
+2025-03-17,TPA,Tampa,164,137,False
+2025-03-17,FLL,Fort Lauderdale,196,131,False
+2025-03-18,RSW,Fort Myers,112,82,False
+2025-03-18,MIA,Miami,222,175,False
+2025-03-18,MCO,Orlando,254,210,False
+2025-03-18,TPA,Tampa,162,126,False
+2025-03-18,FLL,Fort Lauderdale,185,128,False
+2025-03-19,RSW,Fort Myers,117,79,False
+2025-03-19,MIA,Miami,220,177,False
+2025-03-19,MCO,Orlando,265,205,False
+2025-03-19,TPA,Tampa,167,128,False
+2025-03-19,FLL,Fort Lauderdale,188,136,False
+2025-03-20,RSW,Fort Myers,115,77,False
+2025-03-20,MIA,Miami,211,161,False
+2025-03-20,MCO,Orlando,256,206,False
+2025-03-20,TPA,Tampa,166,130,False
+2025-03-20,FLL,Fort Lauderdale,188,138,False
+2025-03-21,RSW,Fort Myers,127,95,False
+2025-03-21,MIA,Miami,223,172,False
+2025-03-21,MCO,Orlando,258,213,False
+2025-03-21,TPA,Tampa,168,145,False
+2025-03-21,FLL,Fort Lauderdale,187,145,False
+2025-03-22,RSW,Fort Myers,126,85,False
+2025-03-22,MIA,Miami,221,168,False
+2025-03-22,MCO,Orlando,250,217,False
+2025-03-22,TPA,Tampa,177,152,False
+2025-03-22,FLL,Fort Lauderdale,197,146,False
+2025-03-23,RSW,Fort Myers,125,100,False
+2025-03-23,MIA,Miami,221,168,False
+2025-03-23,MCO,Orlando,260,206,False
+2025-03-23,TPA,Tampa,172,142,False
+2025-03-23,FLL,Fort Lauderdale,190,135,False
+2025-03-24,RSW,Fort Myers,120,103,False
+2025-03-24,MIA,Miami,218,166,False
+2025-03-24,MCO,Orlando,251,207,False
+2025-03-24,TPA,Tampa,168,127,False
+2025-03-24,FLL,Fort Lauderdale,188,138,False
+2025-03-25,RSW,Fort Myers,123,93,False
+2025-03-25,MIA,Miami,207,166,False
+2025-03-25,MCO,Orlando,250,198,False
+2025-03-25,TPA,Tampa,170,144,False
+2025-03-25,FLL,Fort Lauderdale,193,144,False
+2025-03-26,RSW,Fort Myers,110,102,False
+2025-03-26,MIA,Miami,214,153,False
+2025-03-26,MCO,Orlando,258,197,False
+2025-03-26,TPA,Tampa,169,142,False
+2025-03-26,FLL,Fort Lauderdale,193,133,False
+2025-03-27,RSW,Fort Myers,112,101,False
+2025-03-27,MIA,Miami,210,157,False
+2025-03-27,MCO,Orlando,258,200,False
+2025-03-27,TPA,Tampa,171,143,False
+2025-03-27,FLL,Fort Lauderdale,195,148,False
+2025-03-28,RSW,Fort Myers,117,97,False
+2025-03-28,MIA,Miami,209,154,False
+2025-03-28,MCO,Orlando,262,200,False
+2025-03-28,TPA,Tampa,162,135,False
+2025-03-28,FLL,Fort Lauderdale,195,143,False
+2025-03-29,RSW,Fort Myers,121,103,False
+2025-03-29,MIA,Miami,222,149,False
+2025-03-29,MCO,Orlando,258,206,False
+2025-03-29,TPA,Tampa,170,138,False
+2025-03-29,FLL,Fort Lauderdale,195,155,False
+2025-03-30,RSW,Fort Myers,126,89,False
+2025-03-30,MIA,Miami,223,148,False
+2025-03-30,MCO,Orlando,254,222,False
+2025-03-30,TPA,Tampa,173,145,False
+2025-03-30,FLL,Fort Lauderdale,192,144,False
+2025-03-31,RSW,Fort Myers,126,95,False
+2025-03-31,MIA,Miami,223,154,False
+2025-03-31,MCO,Orlando,264,233,False
+2025-03-31,TPA,Tampa,168,148,False
+2025-03-31,FLL,Fort Lauderdale,183,143,False
+2025-04-01,RSW,Fort Myers,123,87,False
+2025-04-01,MIA,Miami,222,147,False
+2025-04-01,MCO,Orlando,252,210,False
+2025-04-01,TPA,Tampa,165,134,False
+2025-04-01,FLL,Fort Lauderdale,196,152,False
+2025-04-02,RSW,Fort Myers,119,84,False
+2025-04-02,MIA,Miami,221,150,False
+2025-04-02,MCO,Orlando,264,201,False
+2025-04-02,TPA,Tampa,165,129,False
+2025-04-02,FLL,Fort Lauderdale,183,153,False
+2025-04-03,RSW,Fort Myers,119,84,False
+2025-04-03,MIA,Miami,219,154,False
+2025-04-03,MCO,Orlando,258,193,False
+2025-04-03,TPA,Tampa,171,114,False
+2025-04-03,FLL,Fort Lauderdale,180,139,False
+2025-04-04,RSW,Fort Myers,109,81,False
+2025-04-04,MIA,Miami,222,162,False
+2025-04-04,MCO,Orlando,264,191,False
+2025-04-04,TPA,Tampa,165,127,False
+2025-04-04,FLL,Fort Lauderdale,189,136,False
+2025-04-05,RSW,Fort Myers,120,73,False
+2025-04-05,MIA,Miami,225,151,False
+2025-04-05,MCO,Orlando,263,187,False
+2025-04-05,TPA,Tampa,165,126,False
+2025-04-05,FLL,Fort Lauderdale,187,143,False
+2025-04-06,RSW,Fort Myers,131,72,False
+2025-04-06,MIA,Miami,221,157,False
+2025-04-06,MCO,Orlando,259,186,False
+2025-04-06,TPA,Tampa,167,117,False
+2025-04-06,FLL,Fort Lauderdale,190,133,False
+2025-04-07,RSW,Fort Myers,111,65,False
+2025-04-07,MIA,Miami,215,150,False
+2025-04-07,MCO,Orlando,254,162,False
+2025-04-07,TPA,Tampa,169,113,False
+2025-04-07,FLL,Fort Lauderdale,189,121,False
+2025-04-08,RSW,Fort Myers,127,68,False
+2025-04-08,MIA,Miami,223,140,False
+2025-04-08,MCO,Orlando,255,149,False
+2025-04-08,TPA,Tampa,170,104,False
+2025-04-08,FLL,Fort Lauderdale,191,120,False
+2025-04-09,RSW,Fort Myers,119,72,False
+2025-04-09,MIA,Miami,217,140,False
+2025-04-09,MCO,Orlando,256,163,False
+2025-04-09,TPA,Tampa,174,110,False
+2025-04-09,FLL,Fort Lauderdale,182,117,False
+2025-04-10,RSW,Fort Myers,120,68,False
+2025-04-10,MIA,Miami,223,127,False
+2025-04-10,MCO,Orlando,257,167,False
+2025-04-10,TPA,Tampa,175,105,False
+2025-04-10,FLL,Fort Lauderdale,197,117,False
+2025-04-11,RSW,Fort Myers,127,73,False
+2025-04-11,MIA,Miami,214,134,False
+2025-04-11,MCO,Orlando,267,186,False
+2025-04-11,TPA,Tampa,178,100,False
+2025-04-11,FLL,Fort Lauderdale,184,124,False
+2025-04-12,RSW,Fort Myers,119,77,False
+2025-04-12,MIA,Miami,222,138,False
+2025-04-12,MCO,Orlando,255,191,False
+2025-04-12,TPA,Tampa,164,105,False
+2025-04-12,FLL,Fort Lauderdale,195,125,False
+2025-04-13,RSW,Fort Myers,123,83,False
+2025-04-13,MIA,Miami,209,140,False
+2025-04-13,MCO,Orlando,263,174,False
+2025-04-13,TPA,Tampa,176,118,False
+2025-04-13,FLL,Fort Lauderdale,188,133,False
+2025-04-14,RSW,Fort Myers,117,89,False
+2025-04-14,MIA,Miami,208,117,False
+2025-04-14,MCO,Orlando,257,167,False
+2025-04-14,TPA,Tampa,164,106,False
+2025-04-14,FLL,Fort Lauderdale,194,132,False
+2025-04-15,RSW,Fort Myers,120,86,False
+2025-04-15,MIA,Miami,233,125,False
+2025-04-15,MCO,Orlando,256,155,False
+2025-04-15,TPA,Tampa,165,113,False
+2025-04-15,FLL,Fort Lauderdale,182,125,False
+2025-04-16,RSW,Fort Myers,121,89,False
+2025-04-16,MIA,Miami,219,131,False
+2025-04-16,MCO,Orlando,263,163,False
+2025-04-16,TPA,Tampa,168,104,False
+2025-04-16,FLL,Fort Lauderdale,188,128,False
+2025-04-17,RSW,Fort Myers,116,85,False
+2025-04-17,MIA,Miami,228,135,False
+2025-04-17,MCO,Orlando,271,164,False
+2025-04-17,TPA,Tampa,169,108,False
+2025-04-17,FLL,Fort Lauderdale,192,138,False
+2025-04-18,RSW,Fort Myers,129,95,False
+2025-04-18,MIA,Miami,214,133,False
+2025-04-18,MCO,Orlando,270,184,False
+2025-04-18,TPA,Tampa,162,101,False
+2025-04-18,FLL,Fort Lauderdale,187,149,False
+2025-04-19,RSW,Fort Myers,122,99,False
+2025-04-19,MIA,Miami,214,126,False
+2025-04-19,MCO,Orlando,261,189,False
+2025-04-19,TPA,Tampa,170,106,False
+2025-04-19,FLL,Fort Lauderdale,187,143,False
+2025-04-20,RSW,Fort Myers,122,99,False
+2025-04-20,MIA,Miami,215,146,False
+2025-04-20,MCO,Orlando,259,185,False
+2025-04-20,TPA,Tampa,168,100,False
+2025-04-20,FLL,Fort Lauderdale,192,146,False
+2025-04-21,RSW,Fort Myers,114,97,False
+2025-04-21,MIA,Miami,220,137,False
+2025-04-21,MCO,Orlando,265,178,False
+2025-04-21,TPA,Tampa,167,105,False
+2025-04-21,FLL,Fort Lauderdale,196,151,False
+2025-04-22,RSW,Fort Myers,121,85,False
+2025-04-22,MIA,Miami,228,135,False
+2025-04-22,MCO,Orlando,252,177,False
+2025-04-22,TPA,Tampa,172,100,False
+2025-04-22,FLL,Fort Lauderdale,192,147,False
+2025-04-23,RSW,Fort Myers,119,82,False
+2025-04-23,MIA,Miami,229,142,False
+2025-04-23,MCO,Orlando,248,164,False
+2025-04-23,TPA,Tampa,172,96,False
+2025-04-23,FLL,Fort Lauderdale,191,157,False
+2025-04-24,RSW,Fort Myers,128,86,False
+2025-04-24,MIA,Miami,220,150,False
+2025-04-24,MCO,Orlando,255,173,False
+2025-04-24,TPA,Tampa,181,111,False
+2025-04-24,FLL,Fort Lauderdale,186,150,False
+2025-04-25,RSW,Fort Myers,122,83,False
+2025-04-25,MIA,Miami,217,168,False
+2025-04-25,MCO,Orlando,263,158,False
+2025-04-25,TPA,Tampa,170,107,False
+2025-04-25,FLL,Fort Lauderdale,182,153,False
+2025-04-26,RSW,Fort Myers,129,80,False
+2025-04-26,MIA,Miami,222,172,False
+2025-04-26,MCO,Orlando,252,174,False
+2025-04-26,TPA,Tampa,182,120,False
+2025-04-26,FLL,Fort Lauderdale,180,149,False
+2025-04-27,RSW,Fort Myers,116,76,False
+2025-04-27,MIA,Miami,219,167,False
+2025-04-27,MCO,Orlando,259,186,False
+2025-04-27,TPA,Tampa,170,114,False
+2025-04-27,FLL,Fort Lauderdale,183,161,False
+2025-04-28,RSW,Fort Myers,114,80,False
+2025-04-28,MIA,Miami,220,165,False
+2025-04-28,MCO,Orlando,260,180,False
+2025-04-28,TPA,Tampa,172,112,False
+2025-04-28,FLL,Fort Lauderdale,189,157,False
+2025-04-29,RSW,Fort Myers,126,79,False
+2025-04-29,MIA,Miami,220,160,False
+2025-04-29,MCO,Orlando,261,178,False
+2025-04-29,TPA,Tampa,177,99,False
+2025-04-29,FLL,Fort Lauderdale,197,158,False
+2025-04-30,RSW,Fort Myers,123,93,False
+2025-04-30,MIA,Miami,218,147,False
+2025-04-30,MCO,Orlando,256,164,False
+2025-04-30,TPA,Tampa,167,106,False
+2025-04-30,FLL,Fort Lauderdale,187,142,False
+2025-05-01,RSW,Fort Myers,124,94,False
+2025-05-01,MIA,Miami,224,129,False
+2025-05-01,MCO,Orlando,262,151,False
+2025-05-01,TPA,Tampa,177,100,False
+2025-05-01,FLL,Fort Lauderdale,184,137,False
+2025-05-02,RSW,Fort Myers,116,87,False
+2025-05-02,MIA,Miami,210,130,False
+2025-05-02,MCO,Orlando,257,160,False
+2025-05-02,TPA,Tampa,166,102,False
+2025-05-02,FLL,Fort Lauderdale,191,142,False
+2025-05-03,RSW,Fort Myers,125,72,False
+2025-05-03,MIA,Miami,219,120,False
+2025-05-03,MCO,Orlando,267,157,False
+2025-05-03,TPA,Tampa,173,108,False
+2025-05-03,FLL,Fort Lauderdale,189,135,False
+2025-05-04,RSW,Fort Myers,113,82,False
+2025-05-04,MIA,Miami,227,123,False
+2025-05-04,MCO,Orlando,259,147,False
+2025-05-04,TPA,Tampa,164,109,False
+2025-05-04,FLL,Fort Lauderdale,197,129,False
+2025-05-05,RSW,Fort Myers,119,65,False
+2025-05-05,MIA,Miami,216,116,False
+2025-05-05,MCO,Orlando,259,162,False
+2025-05-05,TPA,Tampa,170,100,False
+2025-05-05,FLL,Fort Lauderdale,186,117,False
+2025-05-06,RSW,Fort Myers,118,69,False
+2025-05-06,MIA,Miami,222,114,False
+2025-05-06,MCO,Orlando,258,157,False
+2025-05-06,TPA,Tampa,169,106,False
+2025-05-06,FLL,Fort Lauderdale,186,117,False
+2025-05-07,RSW,Fort Myers,119,56,False
+2025-05-07,MIA,Miami,217,121,False
+2025-05-07,MCO,Orlando,253,147,False
+2025-05-07,TPA,Tampa,164,99,False
+2025-05-07,FLL,Fort Lauderdale,192,121,False
+2025-05-08,RSW,Fort Myers,118,59,False
+2025-05-08,MIA,Miami,230,121,False
+2025-05-08,MCO,Orlando,258,151,False
+2025-05-08,TPA,Tampa,159,92,False
+2025-05-08,FLL,Fort Lauderdale,194,116,False
+2025-05-09,RSW,Fort Myers,123,72,False
+2025-05-09,MIA,Miami,219,109,False
+2025-05-09,MCO,Orlando,256,154,False
+2025-05-09,TPA,Tampa,179,87,False
+2025-05-09,FLL,Fort Lauderdale,189,117,False
+2025-05-10,RSW,Fort Myers,128,69,False
+2025-05-10,MIA,Miami,218,115,False
+2025-05-10,MCO,Orlando,266,181,False
+2025-05-10,TPA,Tampa,180,103,False
+2025-05-10,FLL,Fort Lauderdale,193,110,False
+2025-05-11,RSW,Fort Myers,115,76,False
+2025-05-11,MIA,Miami,223,116,False
+2025-05-11,MCO,Orlando,258,159,False
+2025-05-11,TPA,Tampa,172,112,False
+2025-05-11,FLL,Fort Lauderdale,188,114,False
+2025-05-12,RSW,Fort Myers,119,75,False
+2025-05-12,MIA,Miami,226,127,False
+2025-05-12,MCO,Orlando,261,155,False
+2025-05-12,TPA,Tampa,167,109,False
+2025-05-12,FLL,Fort Lauderdale,185,112,False
+2025-05-13,RSW,Fort Myers,113,65,False
+2025-05-13,MIA,Miami,218,134,False
+2025-05-13,MCO,Orlando,260,156,False
+2025-05-13,TPA,Tampa,178,98,False
+2025-05-13,FLL,Fort Lauderdale,193,111,False
+2025-05-14,RSW,Fort Myers,117,65,False
+2025-05-14,MIA,Miami,215,142,False
+2025-05-14,MCO,Orlando,266,150,False
+2025-05-14,TPA,Tampa,172,95,False
+2025-05-14,FLL,Fort Lauderdale,188,114,False
+2025-05-15,RSW,Fort Myers,113,59,False
+2025-05-15,MIA,Miami,221,135,False
+2025-05-15,MCO,Orlando,252,148,False
+2025-05-15,TPA,Tampa,170,109,False
+2025-05-15,FLL,Fort Lauderdale,191,106,False
+2025-05-16,RSW,Fort Myers,122,70,False
+2025-05-16,MIA,Miami,222,148,False
+2025-05-16,MCO,Orlando,257,155,False
+2025-05-16,TPA,Tampa,163,110,False
+2025-05-16,FLL,Fort Lauderdale,190,107,False
+2025-05-17,RSW,Fort Myers,118,68,False
+2025-05-17,MIA,Miami,227,153,False
+2025-05-17,MCO,Orlando,259,153,False
+2025-05-17,TPA,Tampa,166,112,False
+2025-05-17,FLL,Fort Lauderdale,191,98,False
+2025-05-18,RSW,Fort Myers,128,67,False
+2025-05-18,MIA,Miami,218,170,False
+2025-05-18,MCO,Orlando,261,152,False
+2025-05-18,TPA,Tampa,167,104,False
+2025-05-18,FLL,Fort Lauderdale,193,86,False
+2025-05-19,RSW,Fort Myers,124,71,False
+2025-05-19,MIA,Miami,220,168,False
+2025-05-19,MCO,Orlando,265,171,False
+2025-05-19,TPA,Tampa,165,108,False
+2025-05-19,FLL,Fort Lauderdale,183,99,False
+2025-05-20,RSW,Fort Myers,128,75,False
+2025-05-20,MIA,Miami,211,148,False
+2025-05-20,MCO,Orlando,269,166,False
+2025-05-20,TPA,Tampa,175,98,False
+2025-05-20,FLL,Fort Lauderdale,189,100,False
+2025-05-21,RSW,Fort Myers,121,64,False
+2025-05-21,MIA,Miami,221,135,False
+2025-05-21,MCO,Orlando,262,154,False
+2025-05-21,TPA,Tampa,170,98,False
+2025-05-21,FLL,Fort Lauderdale,182,104,False
+2025-05-22,RSW,Fort Myers,121,65,False
+2025-05-22,MIA,Miami,226,125,False
+2025-05-22,MCO,Orlando,257,164,False
+2025-05-22,TPA,Tampa,171,102,False
+2025-05-22,FLL,Fort Lauderdale,188,108,False
+2025-05-23,RSW,Fort Myers,119,76,False
+2025-05-23,MIA,Miami,223,137,False
+2025-05-23,MCO,Orlando,263,159,False
+2025-05-23,TPA,Tampa,176,96,False
+2025-05-23,FLL,Fort Lauderdale,182,108,False
+2025-05-24,RSW,Fort Myers,119,80,False
+2025-05-24,MIA,Miami,214,130,False
+2025-05-24,MCO,Orlando,258,177,False
+2025-05-24,TPA,Tampa,171,110,False
+2025-05-24,FLL,Fort Lauderdale,190,119,False
+2025-05-25,RSW,Fort Myers,117,90,False
+2025-05-25,MIA,Miami,220,131,False
+2025-05-25,MCO,Orlando,269,172,False
+2025-05-25,TPA,Tampa,163,113,False
+2025-05-25,FLL,Fort Lauderdale,195,111,False
+2025-05-26,RSW,Fort Myers,122,84,False
+2025-05-26,MIA,Miami,217,149,False
+2025-05-26,MCO,Orlando,262,170,False
+2025-05-26,TPA,Tampa,167,117,False
+2025-05-26,FLL,Fort Lauderdale,188,96,False
+2025-05-27,RSW,Fort Myers,121,76,False
+2025-05-27,MIA,Miami,217,135,False
+2025-05-27,MCO,Orlando,259,160,False
+2025-05-27,TPA,Tampa,165,122,False
+2025-05-27,FLL,Fort Lauderdale,188,112,False
+2025-05-28,RSW,Fort Myers,121,78,False
+2025-05-28,MIA,Miami,220,135,False
+2025-05-28,MCO,Orlando,260,155,False
+2025-05-28,TPA,Tampa,176,115,False
+2025-05-28,FLL,Fort Lauderdale,193,113,False
+2025-05-29,RSW,Fort Myers,126,81,False
+2025-05-29,MIA,Miami,219,121,False
+2025-05-29,MCO,Orlando,263,151,False
+2025-05-29,TPA,Tampa,171,108,False
+2025-05-29,FLL,Fort Lauderdale,185,108,False
+2025-05-30,RSW,Fort Myers,122,76,False
+2025-05-30,MIA,Miami,221,133,False
+2025-05-30,MCO,Orlando,255,158,False
+2025-05-30,TPA,Tampa,173,120,False
+2025-05-30,FLL,Fort Lauderdale,187,111,False
+2025-05-31,RSW,Fort Myers,120,67,False
+2025-05-31,MIA,Miami,227,127,False
+2025-05-31,MCO,Orlando,259,150,False
+2025-05-31,TPA,Tampa,179,109,False
+2025-05-31,FLL,Fort Lauderdale,188,116,False
+2025-06-01,RSW,Fort Myers,130,70,False
+2025-06-01,MIA,Miami,218,123,False
+2025-06-01,MCO,Orlando,261,157,False
+2025-06-01,TPA,Tampa,164,101,False
+2025-06-01,FLL,Fort Lauderdale,185,125,False
+2025-06-02,RSW,Fort Myers,122,65,False
+2025-06-02,MIA,Miami,226,123,False
+2025-06-02,MCO,Orlando,258,163,False
+2025-06-02,TPA,Tampa,160,92,False
+2025-06-02,FLL,Fort Lauderdale,188,113,False
+2025-06-03,RSW,Fort Myers,124,71,False
+2025-06-03,MIA,Miami,222,122,False
+2025-06-03,MCO,Orlando,256,165,False
+2025-06-03,TPA,Tampa,171,89,False
+2025-06-03,FLL,Fort Lauderdale,187,108,False
+2025-06-04,RSW,Fort Myers,124,77,False
+2025-06-04,MIA,Miami,226,147,False
+2025-06-04,MCO,Orlando,257,166,False
+2025-06-04,TPA,Tampa,174,97,False
+2025-06-04,FLL,Fort Lauderdale,182,119,False
+2025-06-05,RSW,Fort Myers,125,73,False
+2025-06-05,MIA,Miami,211,133,False
+2025-06-05,MCO,Orlando,262,153,False
+2025-06-05,TPA,Tampa,169,101,False
+2025-06-05,FLL,Fort Lauderdale,190,119,False
+2025-06-06,RSW,Fort Myers,112,63,False
+2025-06-06,MIA,Miami,222,126,False
+2025-06-06,MCO,Orlando,260,170,False
+2025-06-06,TPA,Tampa,169,103,False
+2025-06-06,FLL,Fort Lauderdale,189,116,False
+2025-06-07,RSW,Fort Myers,117,65,False
+2025-06-07,MIA,Miami,219,124,False
+2025-06-07,MCO,Orlando,260,171,False
+2025-06-07,TPA,Tampa,174,109,False
+2025-06-07,FLL,Fort Lauderdale,197,123,False
+2025-06-08,RSW,Fort Myers,114,63,False
+2025-06-08,MIA,Miami,209,125,False
+2025-06-08,MCO,Orlando,264,162,False
+2025-06-08,TPA,Tampa,173,117,False
+2025-06-08,FLL,Fort Lauderdale,192,125,False
+2025-06-09,RSW,Fort Myers,124,65,False
+2025-06-09,MIA,Miami,222,131,False
+2025-06-09,MCO,Orlando,255,153,False
+2025-06-09,TPA,Tampa,169,111,False
+2025-06-09,FLL,Fort Lauderdale,189,113,False
+2025-06-10,RSW,Fort Myers,121,82,False
+2025-06-10,MIA,Miami,219,155,False
+2025-06-10,MCO,Orlando,260,144,False
+2025-06-10,TPA,Tampa,171,103,False
+2025-06-10,FLL,Fort Lauderdale,186,122,False
+2025-06-11,RSW,Fort Myers,118,77,False
+2025-06-11,MIA,Miami,210,144,False
+2025-06-11,MCO,Orlando,258,157,False
+2025-06-11,TPA,Tampa,175,100,False
+2025-06-11,FLL,Fort Lauderdale,185,121,False
+2025-06-12,RSW,Fort Myers,120,79,False
+2025-06-12,MIA,Miami,218,147,False
+2025-06-12,MCO,Orlando,261,158,False
+2025-06-12,TPA,Tampa,163,104,False
+2025-06-12,FLL,Fort Lauderdale,198,123,False
+2025-06-13,RSW,Fort Myers,119,71,False
+2025-06-13,MIA,Miami,228,158,False
+2025-06-13,MCO,Orlando,267,152,False
+2025-06-13,TPA,Tampa,172,112,False
+2025-06-13,FLL,Fort Lauderdale,194,127,False
+2025-06-14,RSW,Fort Myers,119,77,False
+2025-06-14,MIA,Miami,225,150,False
+2025-06-14,MCO,Orlando,258,154,False
+2025-06-14,TPA,Tampa,174,104,False
+2025-06-14,FLL,Fort Lauderdale,195,128,False
+2025-06-15,RSW,Fort Myers,113,71,False
+2025-06-15,MIA,Miami,218,144,False
+2025-06-15,MCO,Orlando,266,168,False
+2025-06-15,TPA,Tampa,169,107,False
+2025-06-15,FLL,Fort Lauderdale,184,142,False
+2025-06-16,RSW,Fort Myers,116,64,False
+2025-06-16,MIA,Miami,219,146,False
+2025-06-16,MCO,Orlando,264,158,False
+2025-06-16,TPA,Tampa,162,106,False
+2025-06-16,FLL,Fort Lauderdale,197,128,False
+2025-06-17,RSW,Fort Myers,115,63,False
+2025-06-17,MIA,Miami,220,142,False
+2025-06-17,MCO,Orlando,262,168,False
+2025-06-17,TPA,Tampa,167,103,False
+2025-06-17,FLL,Fort Lauderdale,201,134,False
+2025-06-18,RSW,Fort Myers,117,68,False
+2025-06-18,MIA,Miami,222,134,False
+2025-06-18,MCO,Orlando,260,152,False
+2025-06-18,TPA,Tampa,168,117,False
+2025-06-18,FLL,Fort Lauderdale,185,131,False
+2025-06-19,RSW,Fort Myers,124,82,False
+2025-06-19,MIA,Miami,217,133,False
+2025-06-19,MCO,Orlando,264,172,False
+2025-06-19,TPA,Tampa,175,112,False
+2025-06-19,FLL,Fort Lauderdale,200,127,False
+2025-06-20,RSW,Fort Myers,111,76,False
+2025-06-20,MIA,Miami,223,121,False
+2025-06-20,MCO,Orlando,259,180,False
+2025-06-20,TPA,Tampa,165,114,False
+2025-06-20,FLL,Fort Lauderdale,188,123,False
+2025-06-21,RSW,Fort Myers,125,70,False
+2025-06-21,MIA,Miami,221,143,False
+2025-06-21,MCO,Orlando,260,180,False
+2025-06-21,TPA,Tampa,179,117,False
+2025-06-21,FLL,Fort Lauderdale,191,123,False
+2025-06-22,RSW,Fort Myers,126,68,False
+2025-06-22,MIA,Miami,224,147,False
+2025-06-22,MCO,Orlando,254,183,False
+2025-06-22,TPA,Tampa,166,97,False
+2025-06-22,FLL,Fort Lauderdale,195,131,False
+2025-06-23,RSW,Fort Myers,122,63,False
+2025-06-23,MIA,Miami,220,150,False
+2025-06-23,MCO,Orlando,267,182,False
+2025-06-23,TPA,Tampa,167,106,False
+2025-06-23,FLL,Fort Lauderdale,181,117,False
+2025-06-24,RSW,Fort Myers,116,52,False
+2025-06-24,MIA,Miami,222,132,False
+2025-06-24,MCO,Orlando,255,189,False
+2025-06-24,TPA,Tampa,162,124,False
+2025-06-24,FLL,Fort Lauderdale,191,120,False
+2025-06-25,RSW,Fort Myers,119,56,False
+2025-06-25,MIA,Miami,216,130,False
+2025-06-25,MCO,Orlando,267,174,False
+2025-06-25,TPA,Tampa,165,129,False
+2025-06-25,FLL,Fort Lauderdale,186,119,False
+2025-06-26,RSW,Fort Myers,128,70,False
+2025-06-26,MIA,Miami,215,123,False
+2025-06-26,MCO,Orlando,256,169,False
+2025-06-26,TPA,Tampa,173,113,False
+2025-06-26,FLL,Fort Lauderdale,192,127,False
+2025-06-27,RSW,Fort Myers,120,66,False
+2025-06-27,MIA,Miami,217,129,False
+2025-06-27,MCO,Orlando,261,184,False
+2025-06-27,TPA,Tampa,174,109,False
+2025-06-27,FLL,Fort Lauderdale,192,130,False
+2025-06-28,RSW,Fort Myers,113,66,False
+2025-06-28,MIA,Miami,227,131,False
+2025-06-28,MCO,Orlando,261,175,False
+2025-06-28,TPA,Tampa,170,120,False
+2025-06-28,FLL,Fort Lauderdale,200,124,False
+2025-06-29,RSW,Fort Myers,124,69,False
+2025-06-29,MIA,Miami,216,135,False
+2025-06-29,MCO,Orlando,260,164,False
+2025-06-29,TPA,Tampa,170,120,False
+2025-06-29,FLL,Fort Lauderdale,193,123,False
+2025-06-30,RSW,Fort Myers,117,68,False
+2025-06-30,MIA,Miami,217,132,False
+2025-06-30,MCO,Orlando,264,158,False
+2025-06-30,TPA,Tampa,174,115,False
+2025-06-30,FLL,Fort Lauderdale,199,128,False
+2025-07-01,RSW,Fort Myers,116,63,False
+2025-07-01,MIA,Miami,220,130,False
+2025-07-01,MCO,Orlando,261,168,False
+2025-07-01,TPA,Tampa,167,105,False
+2025-07-01,FLL,Fort Lauderdale,187,132,False
+2025-07-02,RSW,Fort Myers,109,72,False
+2025-07-02,MIA,Miami,211,133,False
+2025-07-02,MCO,Orlando,259,166,False
+2025-07-02,TPA,Tampa,174,105,False
+2025-07-02,FLL,Fort Lauderdale,190,141,False
+2025-07-03,RSW,Fort Myers,111,71,False
+2025-07-03,MIA,Miami,222,158,False
+2025-07-03,MCO,Orlando,257,155,False
+2025-07-03,TPA,Tampa,171,105,False
+2025-07-03,FLL,Fort Lauderdale,186,142,False
+2025-07-04,RSW,Fort Myers,124,63,False
+2025-07-04,MIA,Miami,215,162,False
+2025-07-04,MCO,Orlando,265,160,False
+2025-07-04,TPA,Tampa,169,97,False
+2025-07-04,FLL,Fort Lauderdale,195,139,False
+2025-07-05,RSW,Fort Myers,121,75,False
+2025-07-05,MIA,Miami,230,168,False
+2025-07-05,MCO,Orlando,268,161,False
+2025-07-05,TPA,Tampa,167,120,False
+2025-07-05,FLL,Fort Lauderdale,194,141,False
+2025-07-06,RSW,Fort Myers,106,73,False
+2025-07-06,MIA,Miami,220,179,False
+2025-07-06,MCO,Orlando,261,184,False
+2025-07-06,TPA,Tampa,170,108,False
+2025-07-06,FLL,Fort Lauderdale,184,132,False
+2025-07-07,RSW,Fort Myers,120,84,False
+2025-07-07,MIA,Miami,217,173,False
+2025-07-07,MCO,Orlando,255,177,False
+2025-07-07,TPA,Tampa,176,109,False
+2025-07-07,FLL,Fort Lauderdale,193,131,False
+2025-07-08,RSW,Fort Myers,124,79,False
+2025-07-08,MIA,Miami,215,167,False
+2025-07-08,MCO,Orlando,260,178,False
+2025-07-08,TPA,Tampa,164,106,False
+2025-07-08,FLL,Fort Lauderdale,184,131,False
+2025-07-09,RSW,Fort Myers,113,67,False
+2025-07-09,MIA,Miami,217,153,False
+2025-07-09,MCO,Orlando,260,167,False
+2025-07-09,TPA,Tampa,173,100,False
+2025-07-09,FLL,Fort Lauderdale,196,125,False
+2025-07-10,RSW,Fort Myers,135,75,False
+2025-07-10,MIA,Miami,223,163,False
+2025-07-10,MCO,Orlando,254,163,False
+2025-07-10,TPA,Tampa,168,100,False
+2025-07-10,FLL,Fort Lauderdale,191,135,False
+2025-07-11,RSW,Fort Myers,125,79,False
+2025-07-11,MIA,Miami,221,166,False
+2025-07-11,MCO,Orlando,258,165,False
+2025-07-11,TPA,Tampa,164,118,False
+2025-07-11,FLL,Fort Lauderdale,183,140,False
+2025-07-12,RSW,Fort Myers,122,76,False
+2025-07-12,MIA,Miami,220,162,False
+2025-07-12,MCO,Orlando,260,165,False
+2025-07-12,TPA,Tampa,169,118,False
+2025-07-12,FLL,Fort Lauderdale,192,142,False
+2025-07-13,RSW,Fort Myers,124,89,False
+2025-07-13,MIA,Miami,221,156,False
+2025-07-13,MCO,Orlando,259,158,False
+2025-07-13,TPA,Tampa,168,122,False
+2025-07-13,FLL,Fort Lauderdale,187,152,False
+2025-07-14,RSW,Fort Myers,126,86,False
+2025-07-14,MIA,Miami,222,156,False
+2025-07-14,MCO,Orlando,264,176,False
+2025-07-14,TPA,Tampa,174,111,False
+2025-07-14,FLL,Fort Lauderdale,190,154,False
+2025-07-15,RSW,Fort Myers,113,80,False
+2025-07-15,MIA,Miami,220,152,False
+2025-07-15,MCO,Orlando,264,172,False
+2025-07-15,TPA,Tampa,171,109,False
+2025-07-15,FLL,Fort Lauderdale,186,151,False
+2025-07-16,RSW,Fort Myers,125,85,False
+2025-07-16,MIA,Miami,224,144,False
+2025-07-16,MCO,Orlando,257,170,False
+2025-07-16,TPA,Tampa,170,108,False
+2025-07-16,FLL,Fort Lauderdale,189,138,False
+2025-07-17,RSW,Fort Myers,118,81,False
+2025-07-17,MIA,Miami,226,148,False
+2025-07-17,MCO,Orlando,261,192,False
+2025-07-17,TPA,Tampa,170,110,False
+2025-07-17,FLL,Fort Lauderdale,194,134,False
+2025-07-18,RSW,Fort Myers,117,74,False
+2025-07-18,MIA,Miami,219,140,False
+2025-07-18,MCO,Orlando,257,194,False
+2025-07-18,TPA,Tampa,174,116,False
+2025-07-18,FLL,Fort Lauderdale,186,120,False
+2025-07-19,RSW,Fort Myers,113,68,False
+2025-07-19,MIA,Miami,224,148,False
+2025-07-19,MCO,Orlando,262,205,False
+2025-07-19,TPA,Tampa,171,123,False
+2025-07-19,FLL,Fort Lauderdale,189,121,False
+2025-07-20,RSW,Fort Myers,122,77,False
+2025-07-20,MIA,Miami,221,149,False
+2025-07-20,MCO,Orlando,257,196,False
+2025-07-20,TPA,Tampa,168,117,False
+2025-07-20,FLL,Fort Lauderdale,182,116,False
+2025-07-21,RSW,Fort Myers,118,81,False
+2025-07-21,MIA,Miami,222,145,False
+2025-07-21,MCO,Orlando,261,176,False
+2025-07-21,TPA,Tampa,173,111,False
+2025-07-21,FLL,Fort Lauderdale,192,121,False
+2025-07-22,RSW,Fort Myers,122,85,False
+2025-07-22,MIA,Miami,220,156,False
+2025-07-22,MCO,Orlando,265,167,False
+2025-07-22,TPA,Tampa,179,116,False
+2025-07-22,FLL,Fort Lauderdale,194,123,False
+2025-07-23,RSW,Fort Myers,122,77,False
+2025-07-23,MIA,Miami,224,155,False
+2025-07-23,MCO,Orlando,259,189,False
+2025-07-23,TPA,Tampa,171,120,False
+2025-07-23,FLL,Fort Lauderdale,191,134,False
+2025-07-24,RSW,Fort Myers,123,77,False
+2025-07-24,MIA,Miami,215,151,False
+2025-07-24,MCO,Orlando,258,180,False
+2025-07-24,TPA,Tampa,167,107,False
+2025-07-24,FLL,Fort Lauderdale,185,127,False
+2025-07-25,RSW,Fort Myers,121,85,False
+2025-07-25,MIA,Miami,217,152,False
+2025-07-25,MCO,Orlando,265,167,False
+2025-07-25,TPA,Tampa,173,101,False
+2025-07-25,FLL,Fort Lauderdale,193,120,False
+2025-07-26,RSW,Fort Myers,121,88,False
+2025-07-26,MIA,Miami,219,153,False
+2025-07-26,MCO,Orlando,264,176,False
+2025-07-26,TPA,Tampa,171,101,False
+2025-07-26,FLL,Fort Lauderdale,195,131,False
+2025-07-27,RSW,Fort Myers,116,86,False
+2025-07-27,MIA,Miami,213,149,False
+2025-07-27,MCO,Orlando,261,166,False
+2025-07-27,TPA,Tampa,171,109,False
+2025-07-27,FLL,Fort Lauderdale,193,148,False
+2025-07-28,RSW,Fort Myers,116,91,False
+2025-07-28,MIA,Miami,217,142,False
+2025-07-28,MCO,Orlando,264,162,False
+2025-07-28,TPA,Tampa,180,121,False
+2025-07-28,FLL,Fort Lauderdale,189,146,False
+2025-07-29,RSW,Fort Myers,123,69,False
+2025-07-29,MIA,Miami,230,143,False
+2025-07-29,MCO,Orlando,266,152,False
+2025-07-29,TPA,Tampa,159,116,False
+2025-07-29,FLL,Fort Lauderdale,188,131,False
+2025-07-30,RSW,Fort Myers,120,74,False
+2025-07-30,MIA,Miami,214,134,False
+2025-07-30,MCO,Orlando,268,155,False
+2025-07-30,TPA,Tampa,178,107,False
+2025-07-30,FLL,Fort Lauderdale,184,118,False
+2025-07-31,RSW,Fort Myers,112,75,False
+2025-07-31,MIA,Miami,220,132,False
+2025-07-31,MCO,Orlando,262,140,False
+2025-07-31,TPA,Tampa,173,110,False
+2025-07-31,FLL,Fort Lauderdale,185,120,False
+2025-08-01,RSW,Fort Myers,114,71,False
+2025-08-01,MIA,Miami,219,132,False
+2025-08-01,MCO,Orlando,262,142,False
+2025-08-01,TPA,Tampa,172,103,False
+2025-08-01,FLL,Fort Lauderdale,189,128,False
+2025-08-02,RSW,Fort Myers,123,69,False
+2025-08-02,MIA,Miami,218,147,False
+2025-08-02,MCO,Orlando,259,148,False
+2025-08-02,TPA,Tampa,175,114,False
+2025-08-02,FLL,Fort Lauderdale,188,131,False
+2025-08-03,RSW,Fort Myers,118,64,False
+2025-08-03,MIA,Miami,213,139,False
+2025-08-03,MCO,Orlando,261,169,False
+2025-08-03,TPA,Tampa,170,116,False
+2025-08-03,FLL,Fort Lauderdale,185,119,False
+2025-08-04,RSW,Fort Myers,118,64,False
+2025-08-04,MIA,Miami,225,133,False
+2025-08-04,MCO,Orlando,260,160,False
+2025-08-04,TPA,Tampa,172,121,False
+2025-08-04,FLL,Fort Lauderdale,187,110,False
+2025-08-05,RSW,Fort Myers,127,68,False
+2025-08-05,MIA,Miami,212,127,False
+2025-08-05,MCO,Orlando,260,174,False
+2025-08-05,TPA,Tampa,165,99,False
+2025-08-05,FLL,Fort Lauderdale,189,108,False
+2025-08-06,RSW,Fort Myers,122,68,False
+2025-08-06,MIA,Miami,227,130,False
+2025-08-06,MCO,Orlando,262,161,False
+2025-08-06,TPA,Tampa,168,101,False
+2025-08-06,FLL,Fort Lauderdale,179,111,False
+2025-08-07,RSW,Fort Myers,119,77,False
+2025-08-07,MIA,Miami,218,133,False
+2025-08-07,MCO,Orlando,257,160,False
+2025-08-07,TPA,Tampa,169,108,False
+2025-08-07,FLL,Fort Lauderdale,196,114,False
+2025-08-08,RSW,Fort Myers,116,77,False
+2025-08-08,MIA,Miami,220,144,False
+2025-08-08,MCO,Orlando,252,142,False
+2025-08-08,TPA,Tampa,172,108,False
+2025-08-08,FLL,Fort Lauderdale,191,116,False
+2025-08-09,RSW,Fort Myers,126,81,False
+2025-08-09,MIA,Miami,208,136,False
+2025-08-09,MCO,Orlando,262,146,False
+2025-08-09,TPA,Tampa,178,103,False
+2025-08-09,FLL,Fort Lauderdale,180,116,False
+2025-08-10,RSW,Fort Myers,120,85,False
+2025-08-10,MIA,Miami,221,142,False
+2025-08-10,MCO,Orlando,261,153,False
+2025-08-10,TPA,Tampa,169,98,False
+2025-08-10,FLL,Fort Lauderdale,197,109,False
+2025-08-11,RSW,Fort Myers,119,85,False
+2025-08-11,MIA,Miami,214,137,False
+2025-08-11,MCO,Orlando,266,162,False
+2025-08-11,TPA,Tampa,163,98,False
+2025-08-11,FLL,Fort Lauderdale,191,110,False
+2025-08-12,RSW,Fort Myers,119,66,False
+2025-08-12,MIA,Miami,224,145,False
+2025-08-12,MCO,Orlando,262,162,False
+2025-08-12,TPA,Tampa,166,96,False
+2025-08-12,FLL,Fort Lauderdale,181,114,False
+2025-08-13,RSW,Fort Myers,126,73,False
+2025-08-13,MIA,Miami,207,138,False
+2025-08-13,MCO,Orlando,257,152,False
+2025-08-13,TPA,Tampa,171,91,False
+2025-08-13,FLL,Fort Lauderdale,191,113,False
+2025-08-14,RSW,Fort Myers,125,78,False
+2025-08-14,MIA,Miami,222,154,False
+2025-08-14,MCO,Orlando,265,146,False
+2025-08-14,TPA,Tampa,172,86,False
+2025-08-14,FLL,Fort Lauderdale,192,106,False
+2025-08-15,RSW,Fort Myers,121,80,False
+2025-08-15,MIA,Miami,220,141,False
+2025-08-15,MCO,Orlando,256,160,False
+2025-08-15,TPA,Tampa,169,103,False
+2025-08-15,FLL,Fort Lauderdale,189,102,False
+2025-08-16,RSW,Fort Myers,114,80,False
+2025-08-16,MIA,Miami,219,145,False
+2025-08-16,MCO,Orlando,258,165,False
+2025-08-16,TPA,Tampa,171,113,False
+2025-08-16,FLL,Fort Lauderdale,187,107,False
+2025-08-17,RSW,Fort Myers,125,81,False
+2025-08-17,MIA,Miami,221,137,False
+2025-08-17,MCO,Orlando,265,160,False
+2025-08-17,TPA,Tampa,168,106,False
+2025-08-17,FLL,Fort Lauderdale,187,110,False
+2025-08-18,RSW,Fort Myers,117,74,False
+2025-08-18,MIA,Miami,211,120,False
+2025-08-18,MCO,Orlando,270,157,False
+2025-08-18,TPA,Tampa,165,104,False
+2025-08-18,FLL,Fort Lauderdale,192,106,False
+2025-08-19,RSW,Fort Myers,123,63,False
+2025-08-19,MIA,Miami,213,127,False
+2025-08-19,MCO,Orlando,256,149,False
+2025-08-19,TPA,Tampa,167,98,False
+2025-08-19,FLL,Fort Lauderdale,200,112,False
+2025-08-20,RSW,Fort Myers,120,67,False
+2025-08-20,MIA,Miami,223,130,False
+2025-08-20,MCO,Orlando,271,165,False
+2025-08-20,TPA,Tampa,163,99,False
+2025-08-20,FLL,Fort Lauderdale,197,103,False
+2025-08-21,RSW,Fort Myers,119,65,False
+2025-08-21,MIA,Miami,216,132,False
+2025-08-21,MCO,Orlando,262,160,False
+2025-08-21,TPA,Tampa,169,99,False
+2025-08-21,FLL,Fort Lauderdale,186,98,False
+2025-08-22,RSW,Fort Myers,110,65,False
+2025-08-22,MIA,Miami,225,137,False
+2025-08-22,MCO,Orlando,254,148,False
+2025-08-22,TPA,Tampa,172,103,False
+2025-08-22,FLL,Fort Lauderdale,188,105,False
+2025-08-23,RSW,Fort Myers,118,75,False
+2025-08-23,MIA,Miami,213,141,False
+2025-08-23,MCO,Orlando,260,152,False
+2025-08-23,TPA,Tampa,174,112,False
+2025-08-23,FLL,Fort Lauderdale,180,100,False
+2025-08-24,RSW,Fort Myers,114,72,False
+2025-08-24,MIA,Miami,230,133,False
+2025-08-24,MCO,Orlando,260,139,False
+2025-08-24,TPA,Tampa,168,113,False
+2025-08-24,FLL,Fort Lauderdale,184,96,False
+2025-08-25,RSW,Fort Myers,120,62,False
+2025-08-25,MIA,Miami,228,141,False
+2025-08-25,MCO,Orlando,266,135,False
+2025-08-25,TPA,Tampa,180,110,False
+2025-08-25,FLL,Fort Lauderdale,190,94,False
+2025-08-26,RSW,Fort Myers,116,61,False
+2025-08-26,MIA,Miami,215,132,False
+2025-08-26,MCO,Orlando,253,130,False
+2025-08-26,TPA,Tampa,165,95,False
+2025-08-26,FLL,Fort Lauderdale,192,86,False
+2025-08-27,RSW,Fort Myers,118,62,False
+2025-08-27,MIA,Miami,214,139,False
+2025-08-27,MCO,Orlando,259,140,False
+2025-08-27,TPA,Tampa,175,90,False
+2025-08-27,FLL,Fort Lauderdale,196,104,False
+2025-08-28,RSW,Fort Myers,130,71,False
+2025-08-28,MIA,Miami,224,140,False
+2025-08-28,MCO,Orlando,254,142,False
+2025-08-28,TPA,Tampa,176,92,False
+2025-08-28,FLL,Fort Lauderdale,184,106,False
+2025-08-29,RSW,Fort Myers,117,67,False
+2025-08-29,MIA,Miami,227,142,False
+2025-08-29,MCO,Orlando,266,151,False
+2025-08-29,TPA,Tampa,166,106,False
+2025-08-29,FLL,Fort Lauderdale,189,110,False
+2025-08-30,RSW,Fort Myers,113,71,False
+2025-08-30,MIA,Miami,228,151,False
+2025-08-30,MCO,Orlando,245,169,False
+2025-08-30,TPA,Tampa,166,108,False
+2025-08-30,FLL,Fort Lauderdale,187,106,False
+2025-08-31,RSW,Fort Myers,121,74,False
+2025-08-31,MIA,Miami,220,155,False
+2025-08-31,MCO,Orlando,256,158,False
+2025-08-31,TPA,Tampa,171,100,False
+2025-08-31,FLL,Fort Lauderdale,180,111,False
+2025-09-01,RSW,Fort Myers,120,70,False
+2025-09-01,MIA,Miami,224,145,False
+2025-09-01,MCO,Orlando,261,157,False
+2025-09-01,TPA,Tampa,177,96,False
+2025-09-01,FLL,Fort Lauderdale,190,110,False
+2025-09-02,RSW,Fort Myers,117,74,False
+2025-09-02,MIA,Miami,220,134,False
+2025-09-02,MCO,Orlando,261,155,False
+2025-09-02,TPA,Tampa,174,93,False
+2025-09-02,FLL,Fort Lauderdale,195,107,False
+2025-09-03,RSW,Fort Myers,119,78,False
+2025-09-03,MIA,Miami,215,130,False
+2025-09-03,MCO,Orlando,263,144,False
+2025-09-03,TPA,Tampa,171,91,False
+2025-09-03,FLL,Fort Lauderdale,192,117,False
+2025-09-04,RSW,Fort Myers,120,73,False
+2025-09-04,MIA,Miami,215,133,False
+2025-09-04,MCO,Orlando,261,148,False
+2025-09-04,TPA,Tampa,164,84,False
+2025-09-04,FLL,Fort Lauderdale,191,104,False
+2025-09-05,RSW,Fort Myers,117,67,False
+2025-09-05,MIA,Miami,217,129,False
+2025-09-05,MCO,Orlando,255,140,False
+2025-09-05,TPA,Tampa,176,91,False
+2025-09-05,FLL,Fort Lauderdale,198,100,False
+2025-09-06,RSW,Fort Myers,127,65,False
+2025-09-06,MIA,Miami,227,120,False
+2025-09-06,MCO,Orlando,262,141,False
+2025-09-06,TPA,Tampa,169,86,False
+2025-09-06,FLL,Fort Lauderdale,182,94,False
+2025-09-07,RSW,Fort Myers,124,64,False
+2025-09-07,MIA,Miami,220,106,False
+2025-09-07,MCO,Orlando,267,145,False
+2025-09-07,TPA,Tampa,168,76,False
+2025-09-07,FLL,Fort Lauderdale,199,98,False
+2025-09-08,RSW,Fort Myers,111,59,False
+2025-09-08,MIA,Miami,225,117,False
+2025-09-08,MCO,Orlando,265,151,False
+2025-09-08,TPA,Tampa,170,92,False
+2025-09-08,FLL,Fort Lauderdale,189,84,False
+2025-09-09,RSW,Fort Myers,125,62,False
+2025-09-09,MIA,Miami,211,113,False
+2025-09-09,MCO,Orlando,255,154,False
+2025-09-09,TPA,Tampa,160,95,False
+2025-09-09,FLL,Fort Lauderdale,187,94,False
+2025-09-10,RSW,Fort Myers,121,62,False
+2025-09-10,MIA,Miami,221,103,False
+2025-09-10,MCO,Orlando,260,148,False
+2025-09-10,TPA,Tampa,168,99,False
+2025-09-10,FLL,Fort Lauderdale,194,98,False
+2025-09-11,RSW,Fort Myers,125,63,False
+2025-09-11,MIA,Miami,222,100,False
+2025-09-11,MCO,Orlando,259,132,False
+2025-09-11,TPA,Tampa,176,100,False
+2025-09-11,FLL,Fort Lauderdale,187,95,False
+2025-09-12,RSW,Fort Myers,123,66,False
+2025-09-12,MIA,Miami,223,100,False
+2025-09-12,MCO,Orlando,264,145,False
+2025-09-12,TPA,Tampa,173,99,False
+2025-09-12,FLL,Fort Lauderdale,182,96,False
+2025-09-13,RSW,Fort Myers,127,67,False
+2025-09-13,MIA,Miami,222,97,False
+2025-09-13,MCO,Orlando,268,145,False
+2025-09-13,TPA,Tampa,167,91,False
+2025-09-13,FLL,Fort Lauderdale,184,88,False
+2025-09-14,RSW,Fort Myers,120,71,False
+2025-09-14,MIA,Miami,220,113,False
+2025-09-14,MCO,Orlando,265,160,False
+2025-09-14,TPA,Tampa,164,74,False
+2025-09-14,FLL,Fort Lauderdale,182,89,False
+2025-09-15,RSW,Fort Myers,112,68,False
+2025-09-15,MIA,Miami,210,120,False
+2025-09-15,MCO,Orlando,258,151,False
+2025-09-15,TPA,Tampa,173,84,False
+2025-09-15,FLL,Fort Lauderdale,185,87,False
+2025-09-16,RSW,Fort Myers,111,66,False
+2025-09-16,MIA,Miami,223,108,False
+2025-09-16,MCO,Orlando,264,136,False
+2025-09-16,TPA,Tampa,171,79,False
+2025-09-16,FLL,Fort Lauderdale,188,88,False
+2025-09-17,RSW,Fort Myers,113,60,False
+2025-09-17,MIA,Miami,235,98,False
+2025-09-17,MCO,Orlando,264,139,False
+2025-09-17,TPA,Tampa,173,82,False
+2025-09-17,FLL,Fort Lauderdale,192,93,False
+2025-09-18,RSW,Fort Myers,124,53,False
+2025-09-18,MIA,Miami,216,100,False
+2025-09-18,MCO,Orlando,264,136,False
+2025-09-18,TPA,Tampa,160,85,False
+2025-09-18,FLL,Fort Lauderdale,200,92,False
+2025-09-19,RSW,Fort Myers,110,58,False
+2025-09-19,MIA,Miami,221,111,False
+2025-09-19,MCO,Orlando,263,133,False
+2025-09-19,TPA,Tampa,164,79,False
+2025-09-19,FLL,Fort Lauderdale,182,98,False
+2025-09-20,RSW,Fort Myers,114,59,False
+2025-09-20,MIA,Miami,209,108,False
+2025-09-20,MCO,Orlando,258,129,False
+2025-09-20,TPA,Tampa,175,88,False
+2025-09-20,FLL,Fort Lauderdale,193,101,False
+2025-09-21,RSW,Fort Myers,118,70,False
+2025-09-21,MIA,Miami,211,111,False
+2025-09-21,MCO,Orlando,261,126,False
+2025-09-21,TPA,Tampa,174,93,False
+2025-09-21,FLL,Fort Lauderdale,186,93,False
+2025-09-22,RSW,Fort Myers,122,70,False
+2025-09-22,MIA,Miami,226,121,False
+2025-09-22,MCO,Orlando,265,135,False
+2025-09-22,TPA,Tampa,171,70,False
+2025-09-22,FLL,Fort Lauderdale,188,96,False
+2025-09-23,RSW,Fort Myers,115,60,False
+2025-09-23,MIA,Miami,222,121,False
+2025-09-23,MCO,Orlando,266,127,False
+2025-09-23,TPA,Tampa,168,85,False
+2025-09-23,FLL,Fort Lauderdale,184,91,False
+2025-09-24,RSW,Fort Myers,117,51,False
+2025-09-24,MIA,Miami,219,104,False
+2025-09-24,MCO,Orlando,256,113,False
+2025-09-24,TPA,Tampa,169,86,False
+2025-09-24,FLL,Fort Lauderdale,192,94,False
+2025-09-25,RSW,Fort Myers,124,56,False
+2025-09-25,MIA,Miami,221,103,False
+2025-09-25,MCO,Orlando,261,121,False
+2025-09-25,TPA,Tampa,168,81,False
+2025-09-25,FLL,Fort Lauderdale,186,92,False
+2025-09-26,RSW,Fort Myers,120,58,False
+2025-09-26,MIA,Miami,223,107,False
+2025-09-26,MCO,Orlando,253,127,False
+2025-09-26,TPA,Tampa,171,96,False
+2025-09-26,FLL,Fort Lauderdale,191,97,False
+2025-09-27,RSW,Fort Myers,113,58,False
+2025-09-27,MIA,Miami,220,111,False
+2025-09-27,MCO,Orlando,260,131,False
+2025-09-27,TPA,Tampa,167,92,False
+2025-09-27,FLL,Fort Lauderdale,190,104,False
+2025-09-28,RSW,Fort Myers,120,58,False
+2025-09-28,MIA,Miami,219,106,False
+2025-09-28,MCO,Orlando,255,131,False
+2025-09-28,TPA,Tampa,178,90,False
+2025-09-28,FLL,Fort Lauderdale,197,92,False
+2025-09-29,RSW,Fort Myers,117,58,False
+2025-09-29,MIA,Miami,218,99,False
+2025-09-29,MCO,Orlando,254,131,False
+2025-09-29,TPA,Tampa,169,85,False
+2025-09-29,FLL,Fort Lauderdale,190,92,False
+2025-09-30,RSW,Fort Myers,116,61,False
+2025-09-30,MIA,Miami,223,96,False
+2025-09-30,MCO,Orlando,268,122,False
+2025-09-30,TPA,Tampa,174,85,False
+2025-09-30,FLL,Fort Lauderdale,183,86,False
+2025-10-01,RSW,Fort Myers,123,65,False
+2025-10-01,MIA,Miami,214,93,False
+2025-10-01,MCO,Orlando,257,138,False
+2025-10-01,TPA,Tampa,171,90,False
+2025-10-01,FLL,Fort Lauderdale,192,86,False
+2025-10-02,RSW,Fort Myers,118,65,False
+2025-10-02,MIA,Miami,221,94,False
+2025-10-02,MCO,Orlando,258,147,False
+2025-10-02,TPA,Tampa,163,77,False
+2025-10-02,FLL,Fort Lauderdale,186,102,False
+2025-10-03,RSW,Fort Myers,121,76,False
+2025-10-03,MIA,Miami,222,105,False
+2025-10-03,MCO,Orlando,261,160,False
+2025-10-03,TPA,Tampa,176,82,False
+2025-10-03,FLL,Fort Lauderdale,182,106,False
+2025-10-04,RSW,Fort Myers,112,71,False
+2025-10-04,MIA,Miami,221,98,False
+2025-10-04,MCO,Orlando,262,151,False
+2025-10-04,TPA,Tampa,174,84,False
+2025-10-04,FLL,Fort Lauderdale,191,102,False
+2025-10-05,RSW,Fort Myers,120,69,False
+2025-10-05,MIA,Miami,219,123,False
+2025-10-05,MCO,Orlando,255,161,False
+2025-10-05,TPA,Tampa,169,88,False
+2025-10-05,FLL,Fort Lauderdale,195,114,False
+2025-10-06,RSW,Fort Myers,122,76,False
+2025-10-06,MIA,Miami,216,125,False
+2025-10-06,MCO,Orlando,259,160,False
+2025-10-06,TPA,Tampa,173,93,False
+2025-10-06,FLL,Fort Lauderdale,189,112,False
+2025-10-07,RSW,Fort Myers,120,82,False
+2025-10-07,MIA,Miami,212,130,False
+2025-10-07,MCO,Orlando,260,170,False
+2025-10-07,TPA,Tampa,169,86,False
+2025-10-07,FLL,Fort Lauderdale,186,109,False
+2025-10-08,RSW,Fort Myers,121,82,False
+2025-10-08,MIA,Miami,212,135,False
+2025-10-08,MCO,Orlando,261,152,False
+2025-10-08,TPA,Tampa,177,93,False
+2025-10-08,FLL,Fort Lauderdale,192,114,False
+2025-10-09,RSW,Fort Myers,121,83,False
+2025-10-09,MIA,Miami,219,143,False
+2025-10-09,MCO,Orlando,264,159,False
+2025-10-09,TPA,Tampa,164,100,False
+2025-10-09,FLL,Fort Lauderdale,187,115,False
+2025-10-10,RSW,Fort Myers,123,82,False
+2025-10-10,MIA,Miami,218,134,False
+2025-10-10,MCO,Orlando,262,162,False
+2025-10-10,TPA,Tampa,172,102,False
+2025-10-10,FLL,Fort Lauderdale,185,108,False
+2025-10-11,RSW,Fort Myers,125,89,False
+2025-10-11,MIA,Miami,224,138,False
+2025-10-11,MCO,Orlando,266,179,False
+2025-10-11,TPA,Tampa,172,92,False
+2025-10-11,FLL,Fort Lauderdale,189,122,False
+2025-10-12,RSW,Fort Myers,120,84,False
+2025-10-12,MIA,Miami,220,133,False
+2025-10-12,MCO,Orlando,261,160,False
+2025-10-12,TPA,Tampa,175,91,False
+2025-10-12,FLL,Fort Lauderdale,190,127,False
+2025-10-13,RSW,Fort Myers,124,85,False
+2025-10-13,MIA,Miami,214,133,False
+2025-10-13,MCO,Orlando,264,164,False
+2025-10-13,TPA,Tampa,173,89,False
+2025-10-13,FLL,Fort Lauderdale,189,117,False
+2025-10-14,RSW,Fort Myers,117,90,False
+2025-10-14,MIA,Miami,216,132,False
+2025-10-14,MCO,Orlando,258,164,False
+2025-10-14,TPA,Tampa,163,90,False
+2025-10-14,FLL,Fort Lauderdale,193,111,False
+2025-10-15,RSW,Fort Myers,118,93,False
+2025-10-15,MIA,Miami,214,124,False
+2025-10-15,MCO,Orlando,259,163,False
+2025-10-15,TPA,Tampa,165,78,False
+2025-10-15,FLL,Fort Lauderdale,193,108,False
+2025-10-16,RSW,Fort Myers,112,88,False
+2025-10-16,MIA,Miami,212,116,False
+2025-10-16,MCO,Orlando,256,161,False
+2025-10-16,TPA,Tampa,167,78,False
+2025-10-16,FLL,Fort Lauderdale,193,116,False
+2025-10-17,RSW,Fort Myers,121,75,False
+2025-10-17,MIA,Miami,216,128,False
+2025-10-17,MCO,Orlando,267,151,False
+2025-10-17,TPA,Tampa,168,88,False
+2025-10-17,FLL,Fort Lauderdale,184,128,False
+2025-10-18,RSW,Fort Myers,122,76,False
+2025-10-18,MIA,Miami,220,136,False
+2025-10-18,MCO,Orlando,262,168,False
+2025-10-18,TPA,Tampa,170,110,False
+2025-10-18,FLL,Fort Lauderdale,188,130,False
+2025-10-19,RSW,Fort Myers,114,73,False
+2025-10-19,MIA,Miami,231,150,False
+2025-10-19,MCO,Orlando,260,172,False
+2025-10-19,TPA,Tampa,169,95,False
+2025-10-19,FLL,Fort Lauderdale,189,133,False
+2025-10-20,RSW,Fort Myers,108,73,False
+2025-10-20,MIA,Miami,215,136,False
+2025-10-20,MCO,Orlando,255,176,False
+2025-10-20,TPA,Tampa,162,94,False
+2025-10-20,FLL,Fort Lauderdale,191,124,False
+2025-10-21,RSW,Fort Myers,122,64,False
+2025-10-21,MIA,Miami,222,139,False
+2025-10-21,MCO,Orlando,260,165,False
+2025-10-21,TPA,Tampa,173,100,False
+2025-10-21,FLL,Fort Lauderdale,190,124,False
+2025-10-22,RSW,Fort Myers,119,77,False
+2025-10-22,MIA,Miami,227,144,False
+2025-10-22,MCO,Orlando,258,187,False
+2025-10-22,TPA,Tampa,170,94,False
+2025-10-22,FLL,Fort Lauderdale,192,127,False
+2025-10-23,RSW,Fort Myers,121,75,False
+2025-10-23,MIA,Miami,222,138,False
+2025-10-23,MCO,Orlando,267,191,False
+2025-10-23,TPA,Tampa,172,97,False
+2025-10-23,FLL,Fort Lauderdale,187,136,False
+2025-10-24,RSW,Fort Myers,123,86,False
+2025-10-24,MIA,Miami,222,127,False
+2025-10-24,MCO,Orlando,262,181,False
+2025-10-24,TPA,Tampa,179,108,False
+2025-10-24,FLL,Fort Lauderdale,191,117,False
+2025-10-25,RSW,Fort Myers,117,92,False
+2025-10-25,MIA,Miami,208,133,False
+2025-10-25,MCO,Orlando,268,163,False
+2025-10-25,TPA,Tampa,163,113,False
+2025-10-25,FLL,Fort Lauderdale,189,117,False
+2025-10-26,RSW,Fort Myers,123,90,False
+2025-10-26,MIA,Miami,220,133,False
+2025-10-26,MCO,Orlando,263,166,False
+2025-10-26,TPA,Tampa,161,113,False
+2025-10-26,FLL,Fort Lauderdale,199,124,False
+2025-10-27,RSW,Fort Myers,124,92,False
+2025-10-27,MIA,Miami,221,141,False
+2025-10-27,MCO,Orlando,263,165,False
+2025-10-27,TPA,Tampa,173,121,False
+2025-10-27,FLL,Fort Lauderdale,186,120,False
+2025-10-28,RSW,Fort Myers,119,95,False
+2025-10-28,MIA,Miami,220,158,False
+2025-10-28,MCO,Orlando,253,170,False
+2025-10-28,TPA,Tampa,170,118,False
+2025-10-28,FLL,Fort Lauderdale,180,112,False
+2025-10-29,RSW,Fort Myers,126,89,False
+2025-10-29,MIA,Miami,223,156,False
+2025-10-29,MCO,Orlando,262,157,False
+2025-10-29,TPA,Tampa,169,125,False
+2025-10-29,FLL,Fort Lauderdale,187,110,False
+2025-10-30,RSW,Fort Myers,120,80,False
+2025-10-30,MIA,Miami,216,140,False
+2025-10-30,MCO,Orlando,252,143,False
+2025-10-30,TPA,Tampa,170,122,False
+2025-10-30,FLL,Fort Lauderdale,187,109,False
+2025-10-31,RSW,Fort Myers,123,74,False
+2025-10-31,MIA,Miami,218,145,False
+2025-10-31,MCO,Orlando,258,152,False
+2025-10-31,TPA,Tampa,168,112,False
+2025-10-31,FLL,Fort Lauderdale,204,112,False
+2025-11-01,RSW,Fort Myers,118,82,False
+2025-11-01,MIA,Miami,221,148,False
+2025-11-01,MCO,Orlando,265,158,False
+2025-11-01,TPA,Tampa,168,108,False
+2025-11-01,FLL,Fort Lauderdale,189,124,False
+2025-11-02,RSW,Fort Myers,118,95,False
+2025-11-02,MIA,Miami,213,157,False
+2025-11-02,MCO,Orlando,261,152,False
+2025-11-02,TPA,Tampa,162,104,False
+2025-11-02,FLL,Fort Lauderdale,199,129,False
+2025-11-03,RSW,Fort Myers,119,91,False
+2025-11-03,MIA,Miami,214,166,False
+2025-11-03,MCO,Orlando,251,155,False
+2025-11-03,TPA,Tampa,173,95,False
+2025-11-03,FLL,Fort Lauderdale,187,122,False
+2025-11-04,RSW,Fort Myers,115,81,False
+2025-11-04,MIA,Miami,223,170,False
+2025-11-04,MCO,Orlando,260,157,False
+2025-11-04,TPA,Tampa,172,93,False
+2025-11-04,FLL,Fort Lauderdale,187,122,False
+2025-11-05,RSW,Fort Myers,124,72,False
+2025-11-05,MIA,Miami,215,153,False
+2025-11-05,MCO,Orlando,259,137,False
+2025-11-05,TPA,Tampa,171,88,False
+2025-11-05,FLL,Fort Lauderdale,187,117,False
+2025-11-06,RSW,Fort Myers,132,78,False
+2025-11-06,MIA,Miami,212,163,False
+2025-11-06,MCO,Orlando,261,144,False
+2025-11-06,TPA,Tampa,171,97,False
+2025-11-06,FLL,Fort Lauderdale,193,121,False
+2025-11-07,RSW,Fort Myers,113,76,False
+2025-11-07,MIA,Miami,222,148,False
+2025-11-07,MCO,Orlando,257,151,False
+2025-11-07,TPA,Tampa,165,112,False
+2025-11-07,FLL,Fort Lauderdale,191,135,False
+2025-11-08,RSW,Fort Myers,123,73,False
+2025-11-08,MIA,Miami,216,156,False
+2025-11-08,MCO,Orlando,253,159,False
+2025-11-08,TPA,Tampa,175,112,False
+2025-11-08,FLL,Fort Lauderdale,192,130,False
+2025-11-09,RSW,Fort Myers,118,76,False
+2025-11-09,MIA,Miami,226,158,False
+2025-11-09,MCO,Orlando,253,158,False
+2025-11-09,TPA,Tampa,170,110,False
+2025-11-09,FLL,Fort Lauderdale,195,130,False
+2025-11-10,RSW,Fort Myers,123,72,False
+2025-11-10,MIA,Miami,221,166,False
+2025-11-10,MCO,Orlando,262,164,False
+2025-11-10,TPA,Tampa,176,103,False
+2025-11-10,FLL,Fort Lauderdale,192,131,False
+2025-11-11,RSW,Fort Myers,125,85,False
+2025-11-11,MIA,Miami,217,163,False
+2025-11-11,MCO,Orlando,268,171,False
+2025-11-11,TPA,Tampa,184,115,False
+2025-11-11,FLL,Fort Lauderdale,195,137,False
+2025-11-12,RSW,Fort Myers,128,84,False
+2025-11-12,MIA,Miami,223,165,False
+2025-11-12,MCO,Orlando,260,176,False
+2025-11-12,TPA,Tampa,164,110,False
+2025-11-12,FLL,Fort Lauderdale,186,136,False
+2025-11-13,RSW,Fort Myers,122,88,False
+2025-11-13,MIA,Miami,220,175,False
+2025-11-13,MCO,Orlando,262,166,False
+2025-11-13,TPA,Tampa,173,128,False
+2025-11-13,FLL,Fort Lauderdale,190,131,False
+2025-11-14,RSW,Fort Myers,117,85,False
+2025-11-14,MIA,Miami,224,168,False
+2025-11-14,MCO,Orlando,255,162,False
+2025-11-14,TPA,Tampa,168,122,False
+2025-11-14,FLL,Fort Lauderdale,185,151,False
+2025-11-15,RSW,Fort Myers,116,94,False
+2025-11-15,MIA,Miami,225,169,False
+2025-11-15,MCO,Orlando,254,164,False
+2025-11-15,TPA,Tampa,160,111,False
+2025-11-15,FLL,Fort Lauderdale,190,160,False
+2025-11-16,RSW,Fort Myers,130,94,False
+2025-11-16,MIA,Miami,229,187,False
+2025-11-16,MCO,Orlando,267,182,False
+2025-11-16,TPA,Tampa,170,117,False
+2025-11-16,FLL,Fort Lauderdale,191,154,False
+2025-11-17,RSW,Fort Myers,123,83,False
+2025-11-17,MIA,Miami,223,186,False
+2025-11-17,MCO,Orlando,257,176,False
+2025-11-17,TPA,Tampa,172,118,False
+2025-11-17,FLL,Fort Lauderdale,200,144,False
+2025-11-18,RSW,Fort Myers,132,80,False
+2025-11-18,MIA,Miami,214,187,False
+2025-11-18,MCO,Orlando,258,169,False
+2025-11-18,TPA,Tampa,166,125,False
+2025-11-18,FLL,Fort Lauderdale,194,152,False
+2025-11-19,RSW,Fort Myers,117,84,False
+2025-11-19,MIA,Miami,222,192,False
+2025-11-19,MCO,Orlando,260,169,False
+2025-11-19,TPA,Tampa,168,137,False
+2025-11-19,FLL,Fort Lauderdale,189,131,False
+2025-11-20,RSW,Fort Myers,117,75,False
+2025-11-20,MIA,Miami,237,178,False
+2025-11-20,MCO,Orlando,264,173,False
+2025-11-20,TPA,Tampa,165,131,False
+2025-11-20,FLL,Fort Lauderdale,185,133,False
+2025-11-21,RSW,Fort Myers,128,77,False
+2025-11-21,MIA,Miami,219,175,False
+2025-11-21,MCO,Orlando,255,180,False
+2025-11-21,TPA,Tampa,171,136,False
+2025-11-21,FLL,Fort Lauderdale,191,129,False
+2025-11-22,RSW,Fort Myers,112,74,False
+2025-11-22,MIA,Miami,218,147,False
+2025-11-22,MCO,Orlando,259,168,False
+2025-11-22,TPA,Tampa,167,130,False
+2025-11-22,FLL,Fort Lauderdale,189,133,False
+2025-11-23,RSW,Fort Myers,126,74,False
+2025-11-23,MIA,Miami,225,155,False
+2025-11-23,MCO,Orlando,264,163,False
+2025-11-23,TPA,Tampa,164,127,False
+2025-11-23,FLL,Fort Lauderdale,183,129,False
+2025-11-24,RSW,Fort Myers,116,75,False
+2025-11-24,MIA,Miami,229,151,False
+2025-11-24,MCO,Orlando,259,169,False
+2025-11-24,TPA,Tampa,172,117,False
+2025-11-24,FLL,Fort Lauderdale,195,136,False
+2025-11-25,RSW,Fort Myers,128,88,False
+2025-11-25,MIA,Miami,219,146,False
+2025-11-25,MCO,Orlando,249,163,False
+2025-11-25,TPA,Tampa,182,110,False
+2025-11-25,FLL,Fort Lauderdale,191,122,False
+2025-11-26,RSW,Fort Myers,118,78,False
+2025-11-26,MIA,Miami,218,142,False
+2025-11-26,MCO,Orlando,271,164,False
+2025-11-26,TPA,Tampa,169,101,False
+2025-11-26,FLL,Fort Lauderdale,181,110,False
+2025-11-27,RSW,Fort Myers,127,80,False
+2025-11-27,MIA,Miami,222,140,False
+2025-11-27,MCO,Orlando,259,163,False
+2025-11-27,TPA,Tampa,174,105,False
+2025-11-27,FLL,Fort Lauderdale,190,103,False
+2025-11-28,RSW,Fort Myers,118,80,False
+2025-11-28,MIA,Miami,224,140,False
+2025-11-28,MCO,Orlando,264,167,False
+2025-11-28,TPA,Tampa,167,106,False
+2025-11-28,FLL,Fort Lauderdale,197,104,False
+2025-11-29,RSW,Fort Myers,128,79,False
+2025-11-29,MIA,Miami,212,148,False
+2025-11-29,MCO,Orlando,266,172,False
+2025-11-29,TPA,Tampa,170,103,False
+2025-11-29,FLL,Fort Lauderdale,188,103,False
+2025-11-30,RSW,Fort Myers,122,92,False
+2025-11-30,MIA,Miami,228,163,False
+2025-11-30,MCO,Orlando,264,180,False
+2025-11-30,TPA,Tampa,178,106,False
+2025-11-30,FLL,Fort Lauderdale,192,94,False
+2025-12-01,RSW,Fort Myers,125,90,False
+2025-12-01,MIA,Miami,216,160,False
+2025-12-01,MCO,Orlando,265,163,False
+2025-12-01,TPA,Tampa,167,108,False
+2025-12-01,FLL,Fort Lauderdale,188,103,False
+2025-12-02,RSW,Fort Myers,129,98,False
+2025-12-02,MIA,Miami,211,160,False
+2025-12-02,MCO,Orlando,256,174,False
+2025-12-02,TPA,Tampa,170,114,False
+2025-12-02,FLL,Fort Lauderdale,182,113,False
+2025-12-03,RSW,Fort Myers,124,94,False
+2025-12-03,MIA,Miami,223,161,False
+2025-12-03,MCO,Orlando,255,191,False
+2025-12-03,TPA,Tampa,176,124,False
+2025-12-03,FLL,Fort Lauderdale,192,124,False
+2025-12-04,RSW,Fort Myers,108,90,False
+2025-12-04,MIA,Miami,221,160,False
+2025-12-04,MCO,Orlando,248,205,False
+2025-12-04,TPA,Tampa,172,110,False
+2025-12-04,FLL,Fort Lauderdale,188,121,False
+2025-12-05,RSW,Fort Myers,126,92,False
+2025-12-05,MIA,Miami,216,153,False
+2025-12-05,MCO,Orlando,252,195,False
+2025-12-05,TPA,Tampa,176,126,False
+2025-12-05,FLL,Fort Lauderdale,190,116,False
+2025-12-06,RSW,Fort Myers,125,95,False
+2025-12-06,MIA,Miami,223,158,False
+2025-12-06,MCO,Orlando,268,192,False
+2025-12-06,TPA,Tampa,162,125,False
+2025-12-06,FLL,Fort Lauderdale,186,121,False
+2025-12-07,RSW,Fort Myers,119,99,False
+2025-12-07,MIA,Miami,233,167,False
+2025-12-07,MCO,Orlando,254,186,False
+2025-12-07,TPA,Tampa,171,131,False
+2025-12-07,FLL,Fort Lauderdale,197,133,False
+2025-12-08,RSW,Fort Myers,121,106,False
+2025-12-08,MIA,Miami,222,161,False
+2025-12-08,MCO,Orlando,256,189,False
+2025-12-08,TPA,Tampa,171,128,False
+2025-12-08,FLL,Fort Lauderdale,193,125,False
+2025-12-09,RSW,Fort Myers,118,99,False
+2025-12-09,MIA,Miami,219,157,False
+2025-12-09,MCO,Orlando,257,188,False
+2025-12-09,TPA,Tampa,160,112,False
+2025-12-09,FLL,Fort Lauderdale,184,134,False
+2025-12-10,RSW,Fort Myers,116,103,False
+2025-12-10,MIA,Miami,216,167,False
+2025-12-10,MCO,Orlando,261,189,False
+2025-12-10,TPA,Tampa,171,120,False
+2025-12-10,FLL,Fort Lauderdale,190,134,False
+2025-12-11,RSW,Fort Myers,128,94,False
+2025-12-11,MIA,Miami,213,163,False
+2025-12-11,MCO,Orlando,262,189,False
+2025-12-11,TPA,Tampa,167,121,False
+2025-12-11,FLL,Fort Lauderdale,199,128,False
+2025-12-12,RSW,Fort Myers,118,95,False
+2025-12-12,MIA,Miami,210,157,False
+2025-12-12,MCO,Orlando,260,200,False
+2025-12-12,TPA,Tampa,165,128,False
+2025-12-12,FLL,Fort Lauderdale,186,141,False
+2025-12-13,RSW,Fort Myers,115,92,False
+2025-12-13,MIA,Miami,219,174,False
+2025-12-13,MCO,Orlando,263,217,False
+2025-12-13,TPA,Tampa,165,128,False
+2025-12-13,FLL,Fort Lauderdale,193,143,False
+2025-12-14,RSW,Fort Myers,122,89,False
+2025-12-14,MIA,Miami,220,163,False
+2025-12-14,MCO,Orlando,260,204,False
+2025-12-14,TPA,Tampa,173,139,False
+2025-12-14,FLL,Fort Lauderdale,192,130,False
+2025-12-15,RSW,Fort Myers,123,94,False
+2025-12-15,MIA,Miami,229,163,False
+2025-12-15,MCO,Orlando,263,219,False
+2025-12-15,TPA,Tampa,168,130,False
+2025-12-15,FLL,Fort Lauderdale,192,135,False
+2025-12-16,RSW,Fort Myers,123,79,False
+2025-12-16,MIA,Miami,213,155,False
+2025-12-16,MCO,Orlando,264,230,False
+2025-12-16,TPA,Tampa,167,140,False
+2025-12-16,FLL,Fort Lauderdale,187,144,False
+2025-12-17,RSW,Fort Myers,121,80,False
+2025-12-17,MIA,Miami,214,171,False
+2025-12-17,MCO,Orlando,261,208,False
+2025-12-17,TPA,Tampa,168,126,False
+2025-12-17,FLL,Fort Lauderdale,183,145,False
+2025-12-18,RSW,Fort Myers,124,85,False
+2025-12-18,MIA,Miami,222,176,False
+2025-12-18,MCO,Orlando,259,196,False
+2025-12-18,TPA,Tampa,173,115,False
+2025-12-18,FLL,Fort Lauderdale,189,128,False
+2025-12-19,RSW,Fort Myers,114,85,False
+2025-12-19,MIA,Miami,222,169,False
+2025-12-19,MCO,Orlando,258,197,False
+2025-12-19,TPA,Tampa,171,104,False
+2025-12-19,FLL,Fort Lauderdale,187,133,False
+2025-12-20,RSW,Fort Myers,126,97,False
+2025-12-20,MIA,Miami,218,172,False
+2025-12-20,MCO,Orlando,253,189,False
+2025-12-20,TPA,Tampa,166,103,False
+2025-12-20,FLL,Fort Lauderdale,190,140,False
+2025-12-21,RSW,Fort Myers,124,96,False
+2025-12-21,MIA,Miami,220,176,False
+2025-12-21,MCO,Orlando,263,190,False
+2025-12-21,TPA,Tampa,165,108,False
+2025-12-21,FLL,Fort Lauderdale,198,142,False
+2025-12-22,RSW,Fort Myers,122,87,False
+2025-12-22,MIA,Miami,213,174,False
+2025-12-22,MCO,Orlando,258,165,False
+2025-12-22,TPA,Tampa,167,106,False
+2025-12-22,FLL,Fort Lauderdale,186,124,False
+2025-12-23,RSW,Fort Myers,107,84,False
+2025-12-23,MIA,Miami,219,164,False
+2025-12-23,MCO,Orlando,267,166,False
+2025-12-23,TPA,Tampa,174,112,False
+2025-12-23,FLL,Fort Lauderdale,193,135,False
+2025-12-24,RSW,Fort Myers,112,78,False
+2025-12-24,MIA,Miami,220,168,False
+2025-12-24,MCO,Orlando,259,180,False
+2025-12-24,TPA,Tampa,171,102,False
+2025-12-24,FLL,Fort Lauderdale,186,149,False
+2025-12-25,RSW,Fort Myers,119,70,False
+2025-12-25,MIA,Miami,221,165,False
+2025-12-25,MCO,Orlando,257,189,False
+2025-12-25,TPA,Tampa,173,106,False
+2025-12-25,FLL,Fort Lauderdale,186,137,False
+2025-12-26,RSW,Fort Myers,108,68,False
+2025-12-26,MIA,Miami,228,172,False
+2025-12-26,MCO,Orlando,266,190,False
+2025-12-26,TPA,Tampa,171,123,False
+2025-12-26,FLL,Fort Lauderdale,194,133,False
+2025-12-27,RSW,Fort Myers,123,74,False
+2025-12-27,MIA,Miami,223,156,False
+2025-12-27,MCO,Orlando,260,211,False
+2025-12-27,TPA,Tampa,167,126,False
+2025-12-27,FLL,Fort Lauderdale,187,137,False
+2025-12-28,RSW,Fort Myers,121,81,False
+2025-12-28,MIA,Miami,215,143,False
+2025-12-28,MCO,Orlando,263,232,False
+2025-12-28,TPA,Tampa,169,137,False
+2025-12-28,FLL,Fort Lauderdale,191,126,False
+2025-12-29,RSW,Fort Myers,120,83,False
+2025-12-29,MIA,Miami,216,137,False
+2025-12-29,MCO,Orlando,258,215,False
+2025-12-29,TPA,Tampa,163,145,False
+2025-12-29,FLL,Fort Lauderdale,185,135,False
+2025-12-30,RSW,Fort Myers,116,84,False
+2025-12-30,MIA,Miami,218,147,False
+2025-12-30,MCO,Orlando,265,219,False
+2025-12-30,TPA,Tampa,172,120,False
+2025-12-30,FLL,Fort Lauderdale,198,138,False
+2025-12-31,RSW,Fort Myers,120,87,False
+2025-12-31,MIA,Miami,211,155,False
+2025-12-31,MCO,Orlando,247,203,False
+2025-12-31,TPA,Tampa,172,117,False
+2025-12-31,FLL,Fort Lauderdale,193,145,False
